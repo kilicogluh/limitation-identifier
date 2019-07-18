@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMC5179309">
+    <text xml:space="preserve">Blood-Brain Barrier Opening by MR-Guided Focused Ultrasound: Preclinical Testing on a Trans-Human Skull Porcine Model
+        
+          Purpose
+          To develop and test a protocol in preparation for a clinical trial on blood-brain-barrier opening (BBBO) by magnetic resonance-guided focused ultrasound (MRgFUS) for chemo-drug delivery to brian tumors.
+        
+        
+          Materials and Methods
+          The procedures were approved by the Institutional Animal Care Committee. A trans-human skull porcine model was designed for the preclinical testing. Wide craniotomies were applied on 11 porcine subjects (~15 kg). A partial human skull was positioned over the animal’s brain. A modified clinical MRgFUS brain system (ExAblate 4000, 230 kHz) was used with a 3T MR scanner (Signa MR750, GE Healthcare). The ultrasound beam was steered during sonications over a 3×3 grid at 3 mm spacing. Acoustic power levels from 3 to 20 W were tested. Bolus injections of Definity microbubble at 4 ul/kg were tested for each sonication. Levels of BBB opening, hemorrhage and cavitation signal were measured by MR imaging, histology and cavitation receivers, respectively. A cavitation safety algorithm was developed based on logistic regression of the measurements and tested to minimize risks of hemorrhage.
+        
+        
+          Results
+          BBBO of approximately 1 cm3 in volume were visualized by Gd-enhanced MR imaging post sonication at ~5 W acoustic powers. Gross examination of histology confirmed Evans blue (bound to macromolecule albumin) extravasation, and H&amp;E staining detected only scattered extravasation of red blood cells. In cases where cavitation signals were above thresholds, sonications were terminated immediately without causing hemorrhage.
+        
+        
+          Conclusion
+          With a trans-human skull porcine model, this study demonstrated BBBO with the 230 kHz ExAblate system in preparation for a clinical trial.
+        
+      </text>
+    <sentence charOffset="0-117" id="S1">
+        <text xml:space="preserve">Blood-Brain Barrier Opening by MR-Guided Focused Ultrasound: Preclinical Testing on a Trans-Human Skull Porcine Model</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNP" charOffset="0-11" text="Blood-Brain" lemma="Blood-Brain"/>
+            <token xml:space="preserve" id="stt_2" POS="NNP" charOffset="12-19" text="Barrier" lemma="Barrier"/>
+            <token xml:space="preserve" id="stt_3" POS="NNP" charOffset="20-27" text="Opening" lemma="Opening"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="28-30" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_5" POS="NNP" charOffset="31-40" text="MR-Guided" lemma="MR-Guided"/>
+            <token xml:space="preserve" id="stt_6" POS="NNP" charOffset="41-48" text="Focused" lemma="Focused"/>
+            <token xml:space="preserve" id="stt_7" POS="NNP" charOffset="49-59" text="Ultrasound" lemma="Ultrasound"/>
+            <token xml:space="preserve" id="stt_8" POS=":" charOffset="59-60" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="61-72" text="Preclinical" lemma="preclinical"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="73-80" text="Testing" lemma="test"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="81-83" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="84-85" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="NNP" charOffset="86-97" text="Trans-Human" lemma="Trans-Human"/>
+            <token xml:space="preserve" id="stt_14" POS="NNP" charOffset="98-103" text="Skull" lemma="Skull"/>
+            <token xml:space="preserve" id="stt_15" POS="NNP" charOffset="104-111" text="Porcine" lemma="Porcine"/>
+            <token xml:space="preserve" id="stt_16" POS="NNP" charOffset="112-117" text="Model" lemma="Model"/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="nn"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="nn"/>
+            <dependency id="stp_3" t1="stt_3" t2="stt_7" type="prep_by"/>
+            <dependency id="stp_4" t1="stt_7" t2="stt_5" type="nn"/>
+            <dependency id="stp_5" t1="stt_7" t2="stt_6" type="nn"/>
+            <dependency id="stp_6" t1="stt_7" t2="stt_9" type="dep"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_16" type="prep_on"/>
+            <dependency id="stp_8" t1="stt_9" t2="stt_10" type="amod"/>
+            <dependency id="stp_9" t1="stt_16" t2="stt_12" type="det"/>
+            <dependency id="stp_10" t1="stt_16" t2="stt_13" type="nn"/>
+            <dependency id="stp_11" t1="stt_16" t2="stt_14" type="nn"/>
+            <dependency id="stp_12" t1="stt_16" t2="stt_15" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (FRAG=H
+            (NP (NNP Blood-Brain) (NNP Barrier) (NNP=H Opening))
+            (PP=H (IN=H by)
+            (NP
+            (NP=H (NNP MR-Guided) (NNP Focused) (NNP=H Ultrasound))
+            (: :)
+            (NP
+            (NP=H (JJ=H Preclinical) (VBG Testing))
+            (PP (IN=H on)
+            (NP (DT a) (NNP Trans-Human) (NNP Skull) (NNP Porcine) (NNP=H Model))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="137-144" id="S2">
+        <text xml:space="preserve">Purpose</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="137-144" text="Purpose" lemma="purpose"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NN=H Purpose)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="155-357" id="S3">
+        <text xml:space="preserve">To develop and test a protocol in preparation for a clinical trial on blood-brain-barrier opening (BBBO) by magnetic resonance-guided focused ultrasound (MRgFUS) for chemo-drug delivery to brian tumors.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="155-157" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="158-165" text="develop" lemma="develop"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="166-169" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="170-174" text="test" lemma="test"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="175-176" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="177-185" text="protocol" lemma="protocol"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="186-188" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="189-200" text="preparation" lemma="preparation"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="201-204" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="205-206" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="207-215" text="clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="216-221" text="trial" lemma="trial"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="222-224" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="225-244" text="blood-brain-barrier" lemma="blood-brain-barrier"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="245-252" text="opening" lemma="opening"/>
+            <token xml:space="preserve" id="stt_16" POS="-LRB-" charOffset="253-254" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="254-258" text="BBBO" lemma="bbbo"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="258-259" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="260-262" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="263-271" text="magnetic" lemma="magnetic"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="272-288" text="resonance-guided" lemma="resonance-guided"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="289-296" text="focused" lemma="focused"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="297-307" text="ultrasound" lemma="ultrasound"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="308-309" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="309-315" text="MRgFUS" lemma="mrgfus"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="315-316" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="317-320" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="321-331" text="chemo-drug" lemma="chemo-drug"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="332-340" text="delivery" lemma="delivery"/>
+            <token xml:space="preserve" id="stt_30" POS="TO" charOffset="341-343" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="344-349" text="brian" lemma="brian"/>
+            <token xml:space="preserve" id="stt_32" POS="NNS" charOffset="350-356" text="tumors" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="356-357" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_32" t2="stt_31" type="amod"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_32" type="prep_to"/>
+            <dependency id="stp_3" t1="stt_2" t2="stt_1" type="aux"/>
+            <dependency id="stp_4" t1="stt_2" t2="stt_4" type="conj_and"/>
+            <dependency id="stp_5" t1="stt_2" t2="stt_6" type="dobj"/>
+            <dependency id="stp_6" t1="stt_6" t2="stt_5" type="det"/>
+            <dependency id="stp_7" t1="stt_6" t2="stt_8" type="prep_in"/>
+            <dependency id="stp_8" t1="stt_8" t2="stt_12" type="prep_for"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_10" type="det"/>
+            <dependency id="stp_10" t1="stt_12" t2="stt_11" type="amod"/>
+            <dependency id="stp_11" t1="stt_12" t2="stt_15" type="prep_on"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_17" type="appos"/>
+            <dependency id="stp_13" t1="stt_15" t2="stt_23" type="prep_by"/>
+            <dependency id="stp_14" t1="stt_15" t2="stt_29" type="prep_for"/>
+            <dependency id="stp_15" t1="stt_15" t2="stt_14" type="nn"/>
+            <dependency id="stp_16" t1="stt_22" t2="stt_21" type="amod"/>
+            <dependency id="stp_17" t1="stt_23" t2="stt_20" type="amod"/>
+            <dependency id="stp_18" t1="stt_23" t2="stt_22" type="amod"/>
+            <dependency id="stp_19" t1="stt_23" t2="stt_25" type="appos"/>
+            <dependency id="stp_20" t1="stt_29" t2="stt_28" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (VP=H (TO=H To)
+            (VP (VB=H develop)
+            (CC and)
+            (VB test)
+            (NP
+            (NP=H (DT a) (NN=H protocol))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H preparation))
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT a) (JJ clinical) (NN=H trial))
+            (PP (IN=H on)
+            (NP
+            (NP=H
+            (NP=H (NN blood-brain-barrier) (NN=H opening))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H BBBO))
+            (-RRB- -RRB-)))
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ magnetic)
+            (ADJP (JJ resonance-guided) (JJ=H focused))
+            (NN=H ultrasound))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H MRgFUS))
+            (-RRB- -RRB-))))
+            (PP (IN=H for)
+            (NP (NN chemo-drug) (NN=H delivery))))))))))
+            (PP (TO=H to)
+            (NP (JJ brian) (NNS=H tumors)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="386-407" id="S4">
+        <text xml:space="preserve">Materials and Methods</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNPS" charOffset="386-395" text="Materials" lemma="Materials"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="396-399" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="400-407" text="Methods" lemma="method"/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_3" type="conj_and"/>
+        </dependencies>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NNPS=H Materials))
+            (CC and)
+            (NP (NNS=H Methods))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="418-490" id="S5">
+        <text xml:space="preserve">The procedures were approved by the Institutional Animal Care Committee.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="418-421" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="422-432" text="procedures" lemma="procedure"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="433-437" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="438-446" text="approved" lemma="approve"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="447-449" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="450-453" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="454-467" text="Institutional" lemma="institutional"/>
+            <token xml:space="preserve" id="stt_8" POS="NNP" charOffset="468-474" text="Animal" lemma="Animal"/>
+            <token xml:space="preserve" id="stt_9" POS="NNP" charOffset="475-479" text="Care" lemma="Care"/>
+            <token xml:space="preserve" id="stt_10" POS="NNP" charOffset="480-489" text="Committee" lemma="Committee"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="489-490" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_2" type="nsubjpass"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="auxpass"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_10" type="agent"/>
+            <dependency id="stp_5" t1="stt_10" t2="stt_6" type="det"/>
+            <dependency id="stp_6" t1="stt_10" t2="stt_7" type="amod"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_8" type="nn"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_9" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NNS=H procedures))
+            (VP=H (VBD=H were)
+            (VP (VBN=H approved)
+            (PP (IN=H by)
+            (NP (DT the) (JJ Institutional) (NNP Animal) (NNP Care) (NNP=H Committee)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="491-566" id="S6">
+        <text xml:space="preserve">A trans-human skull porcine model was designed for the preclinical testing.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="491-492" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="493-504" text="trans-human" lemma="trans-human"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="505-510" text="skull" lemma="skull"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="511-518" text="porcine" lemma="porcine"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="519-524" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="525-528" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="529-537" text="designed" lemma="design"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="538-541" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="542-545" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="546-557" text="preclinical" lemma="preclinical"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="558-565" text="testing" lemma="testing"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="565-566" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_5" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_5" t2="stt_2" type="amod"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_3" type="nn"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="nn"/>
+            <dependency id="stp_5" t1="stt_7" t2="stt_5" type="nsubjpass"/>
+            <dependency id="stp_6" t1="stt_7" t2="stt_6" type="auxpass"/>
+            <dependency id="stp_7" t1="stt_7" t2="stt_11" type="prep_for"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_9" type="det"/>
+            <dependency id="stp_9" t1="stt_11" t2="stt_10" type="amod"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (DT A) (JJ trans-human) (NN skull) (NN porcine) (NN=H model))
+            (VP=H (VBD=H was)
+            (VP (VBN=H designed)
+            (PP (IN=H for)
+            (NP (DT the) (JJ preclinical) (NN=H testing)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="567-630" id="S7">
+        <text xml:space="preserve">Wide craniotomies were applied on 11 porcine subjects (~15 kg).</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="567-571" text="Wide" lemma="wide"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="572-584" text="craniotomies" lemma="craniotomy"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="585-589" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="590-597" text="applied" lemma="apply"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="598-600" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="601-603" text="11" lemma="11"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="604-611" text="porcine" lemma="porcine"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="612-620" text="subjects" lemma="subject"/>
+            <token xml:space="preserve" id="stt_9" POS="-LRB-" charOffset="621-622" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="622-623" text="~" lemma="~"/>
+            <token xml:space="preserve" id="stt_11" POS="CD" charOffset="623-625" text="15" lemma="15"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="626-628" text="kg" lemma="kg"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="628-629" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="629-630" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nn"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_2" type="nsubjpass"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="auxpass"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_8" type="prep_on"/>
+            <dependency id="stp_5" t1="stt_8" t2="stt_6" type="num"/>
+            <dependency id="stp_6" t1="stt_8" t2="stt_7" type="nn"/>
+            <dependency id="stp_7" t1="stt_8" t2="stt_10" type="dep"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_12" type="dep"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_11" type="num"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Wide) (NNS=H craniotomies))
+            (VP=H (VBD=H were)
+            (VP (VBN=H applied)
+            (PP (IN=H on)
+            (NP
+            (NP=H (CD 11) (NN porcine) (NNS=H subjects))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (CD=H ~))
+            (NP (CD 15) (NN=H kg)))
+            (-RRB- -RRB-))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="631-692" id="S8">
+        <text xml:space="preserve">A partial human skull was positioned over the animal’s brain.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="631-632" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="633-640" text="partial" lemma="partial"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="641-646" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="647-652" text="skull" lemma="skull"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="653-656" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="657-667" text="positioned" lemma="position"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="668-672" text="over" lemma="over"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="673-676" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="677-683" text="animal" lemma="animal"/>
+            <token xml:space="preserve" id="stt_10" POS="POS" charOffset="683-685" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="686-691" text="brain" lemma="brain"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="691-692" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_4" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_2" type="amod"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="amod"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_4" type="nsubjpass"/>
+            <dependency id="stp_5" t1="stt_6" t2="stt_5" type="auxpass"/>
+            <dependency id="stp_6" t1="stt_6" t2="stt_11" type="prep_over"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_8" type="det"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_9" type="poss"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (DT A) (JJ partial) (JJ human) (NN=H skull))
+            (VP=H (VBD=H was)
+            (VP (VBN=H positioned)
+            (PP (IN=H over)
+            (NP
+            (NP (DT the) (NN animal) (POS=H 's))
+            (NN=H brain)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="693-817" id="S9">
+        <text xml:space="preserve">A modified clinical MRgFUS brain system (ExAblate 4000, 230 kHz) was used with a 3T MR scanner (Signa MR750, GE Healthcare).</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="693-694" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="695-703" text="modified" lemma="modify"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="704-712" text="clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="713-719" text="MRgFUS" lemma="mrgfus"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="720-725" text="brain" lemma="brain"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="726-732" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="733-734" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="734-742" text="ExAblate" lemma="exablate"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="743-747" text="4000" lemma="4000"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="747-748" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="CD" charOffset="749-752" text="230" lemma="230"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="753-756" text="kHz" lemma="khz"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="756-757" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="758-761" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="762-766" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="767-771" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="772-773" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="774-776" text="3T" lemma="3t"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="777-779" text="MR" lemma="mr"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="780-787" text="scanner" lemma="scanner"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="788-789" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="789-794" text="Signa" lemma="signa"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="795-800" text="MR750" lemma="mr750"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="800-801" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="NNP" charOffset="802-804" text="GE" lemma="GE"/>
+            <token xml:space="preserve" id="stt_26" POS="NNP" charOffset="805-815" text="Healthcare" lemma="Healthcare"/>
+            <token xml:space="preserve" id="stt_27" POS="-RRB-" charOffset="815-816" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="816-817" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_6" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_6" t2="stt_2" type="amod"/>
+            <dependency id="stp_3" t1="stt_6" t2="stt_3" type="amod"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_4" type="nn"/>
+            <dependency id="stp_5" t1="stt_6" t2="stt_5" type="nn"/>
+            <dependency id="stp_6" t1="stt_6" t2="stt_9" type="dep"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_8" type="amod"/>
+            <dependency id="stp_8" t1="stt_9" t2="stt_12" type="appos"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_11" type="num"/>
+            <dependency id="stp_10" t1="stt_15" t2="stt_20" type="prep_with"/>
+            <dependency id="stp_11" t1="stt_15" t2="stt_6" type="nsubjpass"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_14" type="auxpass"/>
+            <dependency id="stp_13" t1="stt_20" t2="stt_17" type="det"/>
+            <dependency id="stp_14" t1="stt_20" t2="stt_18" type="nn"/>
+            <dependency id="stp_15" t1="stt_20" t2="stt_19" type="nn"/>
+            <dependency id="stp_16" t1="stt_20" t2="stt_23" type="appos"/>
+            <dependency id="stp_17" t1="stt_23" t2="stt_22" type="nn"/>
+            <dependency id="stp_18" t1="stt_23" t2="stt_26" type="dep"/>
+            <dependency id="stp_19" t1="stt_26" t2="stt_25" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT A) (VBN modified) (JJ clinical) (NN MRgFUS) (NN brain) (NN=H system))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (JJ ExAblate) (CD=H 4000))
+            (, ,)
+            (NP (CD 230) (NN=H kHz)))
+            (-RRB- -RRB-)))
+            (VP=H (VBD=H was)
+            (VP (VBN=H used)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT a) (NN 3T) (NN MR) (NN=H scanner))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN Signa) (NN=H MR750))
+            (, ,)
+            (NP (NNP GE) (NNP=H Healthcare))
+            (-RRB- -RRB-))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="818-901" id="S10">
+        <text xml:space="preserve">The ultrasound beam was steered during sonications over a 3×3 grid at 3 mm spacing.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="818-821" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="822-832" text="ultrasound" lemma="ultrasound"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="833-837" text="beam" lemma="beam"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="838-841" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="842-849" text="steered" lemma="steer"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="850-856" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="857-868" text="sonications" lemma="sonication"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="869-873" text="over" lemma="over"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="874-875" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="876-877" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="877-878" text="×" lemma="×"/>
+            <token xml:space="preserve" id="stt_12" POS="CD" charOffset="878-879" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="880-884" text="grid" lemma="grid"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="885-887" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="888-889" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="890-892" text="mm" lemma="mm"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="893-900" text="spacing" lemma="spacing"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="900-901" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="nn"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_3" type="nsubjpass"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="auxpass"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_7" type="prep_during"/>
+            <dependency id="stp_6" t1="stt_5" t2="stt_13" type="dobj"/>
+            <dependency id="stp_7" t1="stt_7" t2="stt_11" type="prep_over"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_9" type="det"/>
+            <dependency id="stp_9" t1="stt_11" t2="stt_10" type="num"/>
+            <dependency id="stp_10" t1="stt_13" t2="stt_17" type="prep_at"/>
+            <dependency id="stp_11" t1="stt_13" t2="stt_12" type="num"/>
+            <dependency id="stp_12" t1="stt_17" t2="stt_16" type="nn"/>
+            <dependency id="stp_13" t1="stt_17" t2="stt_15" type="num"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN ultrasound) (NN=H beam))
+            (VP=H (VBD=H was)
+            (VP (VBN=H steered)
+            (PP (IN=H during)
+            (NP
+            (NP=H (NNS=H sonications))
+            (PP (IN=H over)
+            (NP (DT a) (CD 3) (NN=H ×)))))
+            (NP
+            (NP=H (CD 3) (NN=H grid))
+            (PP (IN=H at)
+            (NP (CD 3) (NN mm) (NN=H spacing))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="902-951" id="S11">
+        <text xml:space="preserve">Acoustic power levels from 3 to 20 W were tested.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="902-910" text="Acoustic" lemma="acoustic"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="911-916" text="power" lemma="power"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="917-923" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="924-928" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="929-930" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="931-933" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="934-936" text="20" lemma="20"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="937-938" text="W" lemma="w"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="939-943" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="944-950" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="950-951" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="amod"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="nn"/>
+            <dependency id="stp_3" t1="stt_3" t2="stt_8" type="prep_from"/>
+            <dependency id="stp_4" t1="stt_7" t2="stt_5" type="number"/>
+            <dependency id="stp_5" t1="stt_7" t2="stt_6" type="dep"/>
+            <dependency id="stp_6" t1="stt_8" t2="stt_7" type="num"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_3" type="nsubjpass"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_9" type="auxpass"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Acoustic) (NN power) (NNS=H levels))
+            (PP (IN=H from)
+            (NP
+            (QP (CD=H 3) (TO to) (CD 20))
+            (NN=H W))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H tested)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="952-1036" id="S12">
+        <text xml:space="preserve">Bolus injections of Definity microbubble at 4 ul/kg were tested for each sonication.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="952-957" text="Bolus" lemma="bolus"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="958-968" text="injections" lemma="injection"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="969-971" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="972-980" text="Definity" lemma="definity"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="981-992" text="microbubble" lemma="microbubble"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="993-995" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="996-997" text="4" lemma="4"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="998-1003" text="ul/kg" lemma="ul/kg"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="1004-1008" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1009-1015" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1016-1019" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1020-1024" text="each" lemma="each"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1025-1035" text="sonication" lemma="sonication"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1035-1036" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nn"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_5" type="prep_of"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_4" type="nn"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_8" type="prep_at"/>
+            <dependency id="stp_5" t1="stt_8" t2="stt_7" type="num"/>
+            <dependency id="stp_6" t1="stt_10" t2="stt_2" type="nsubjpass"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_9" type="auxpass"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_13" type="prep_for"/>
+            <dependency id="stp_9" t1="stt_13" t2="stt_12" type="det"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Bolus) (NNS=H injections))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN Definity) (NN=H microbubble))
+            (PP (IN=H at)
+            (NP (CD 4) (NN=H ul/kg))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H tested)
+            (PP (IN=H for)
+            (NP (DT each) (NN=H sonication)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1037-1171" id="S13">
+        <text xml:space="preserve">Levels of BBB opening, hemorrhage and cavitation signal were measured by MR imaging, histology and cavitation receivers, respectively.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1037-1043" text="Levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1044-1046" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NNP" charOffset="1047-1050" text="BBB" lemma="BBB"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1051-1058" text="opening" lemma="opening"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="1058-1059" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1060-1070" text="hemorrhage" lemma="hemorrhage"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1071-1074" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1075-1085" text="cavitation" lemma="cavitation"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1086-1092" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1093-1097" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1098-1106" text="measured" lemma="measure"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1107-1109" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1110-1112" text="MR" lemma="mr"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1113-1120" text="imaging" lemma="imaging"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1120-1121" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1122-1131" text="histology" lemma="histology"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="1132-1135" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1136-1146" text="cavitation" lemma="cavitation"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1147-1156" text="receivers" lemma="receiver"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="1156-1157" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="1158-1170" text="respectively" lemma="respectively"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1170-1171" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_4" type="prep_of"/>
+            <dependency id="stp_2" t1="stt_1" t2="stt_6" type="prep_of"/>
+            <dependency id="stp_3" t1="stt_1" t2="stt_9" type="prep_of"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_3" type="nn"/>
+            <dependency id="stp_5" t1="stt_4" t2="stt_6" type="conj_and"/>
+            <dependency id="stp_6" t1="stt_4" t2="stt_9" type="conj_and"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_8" type="nn"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_1" type="nsubjpass"/>
+            <dependency id="stp_9" t1="stt_11" t2="stt_19" type="agent"/>
+            <dependency id="stp_10" t1="stt_11" t2="stt_10" type="auxpass"/>
+            <dependency id="stp_11" t1="stt_14" t2="stt_16" type="conj_and"/>
+            <dependency id="stp_12" t1="stt_14" t2="stt_18" type="conj_and"/>
+            <dependency id="stp_13" t1="stt_19" t2="stt_16" type="nn"/>
+            <dependency id="stp_14" t1="stt_19" t2="stt_18" type="nn"/>
+            <dependency id="stp_15" t1="stt_19" t2="stt_21" type="advmod"/>
+            <dependency id="stp_16" t1="stt_19" t2="stt_13" type="nn"/>
+            <dependency id="stp_17" t1="stt_19" t2="stt_14" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Levels))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNP BBB) (NN=H opening))
+            (, ,)
+            (NP (NN=H hemorrhage))
+            (CC and)
+            (NP (NN cavitation) (NN=H signal)))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H measured)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN MR)
+            (NP (NN imaging) (, ,) (NN=H histology)
+            (CC and)
+            (NN cavitation))
+            (NNS=H receivers))
+            (, ,)
+            (ADVP (RB=H respectively))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1172-1308" id="S14">
+        <text xml:space="preserve">A cavitation safety algorithm was developed based on logistic regression of the measurements and tested to minimize risks of hemorrhage.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1172-1173" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1174-1184" text="cavitation" lemma="cavitation"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1185-1191" text="safety" lemma="safety"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1192-1201" text="algorithm" lemma="algorithm"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1202-1205" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="1206-1215" text="developed" lemma="develop"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="1216-1221" text="based" lemma="base"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1222-1224" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1225-1233" text="logistic" lemma="logistic"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1234-1244" text="regression" lemma="regression"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1245-1247" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1248-1251" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1252-1264" text="measurements" lemma="measurement"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1265-1268" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="1269-1275" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="1276-1278" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="VB" charOffset="1279-1287" text="minimize" lemma="minimize"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1288-1293" text="risks" lemma="risk"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1294-1296" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1297-1307" text="hemorrhage" lemma="hemorrhage"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="1307-1308" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_4" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_2" type="nn"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="nn"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_4" type="nsubjpass"/>
+            <dependency id="stp_5" t1="stt_6" t2="stt_5" type="auxpass"/>
+            <dependency id="stp_6" t1="stt_6" t2="stt_8" type="prepc_based_on"/>
+            <dependency id="stp_7" t1="stt_6" t2="stt_10" type="pobj"/>
+            <dependency id="stp_8" t1="stt_6" t2="stt_15" type="conj_and"/>
+            <dependency id="stp_9" t1="stt_10" t2="stt_9" type="amod"/>
+            <dependency id="stp_10" t1="stt_10" t2="stt_13" type="prep_of"/>
+            <dependency id="stp_11" t1="stt_13" t2="stt_12" type="det"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_17" type="xcomp"/>
+            <dependency id="stp_13" t1="stt_15" t2="stt_4" type="nsubjpass"/>
+            <dependency id="stp_14" t1="stt_17" t2="stt_16" type="aux"/>
+            <dependency id="stp_15" t1="stt_17" t2="stt_18" type="dobj"/>
+            <dependency id="stp_16" t1="stt_18" t2="stt_20" type="prep_of"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (DT A) (NN cavitation) (NN safety) (NN=H algorithm))
+            (VP=H (VBD=H was)
+            (VP
+            (VP=H (VBN=H developed)
+            (PP (VBN=H based)
+            (PP (IN=H on)
+            (NP
+            (NP=H (JJ logistic) (NN=H regression))
+            (PP (IN=H of)
+            (NP (DT the) (NNS=H measurements)))))))
+            (CC and)
+            (VP (VBN=H tested)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H minimize)
+            (NP
+            (NP=H (NNS=H risks))
+            (PP (IN=H of)
+            (NP (NN=H hemorrhage))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1337-1344" id="S15">
+        <text xml:space="preserve">Results</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1337-1344" text="Results" lemma="result"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NNS=H Results)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1355-1475" id="S16">
+        <text xml:space="preserve">BBBO of approximately 1 cm3 in volume were visualized by Gd-enhanced MR imaging post sonication at ~5 W acoustic powers.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1355-1359" text="BBBO" lemma="bbbo"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1360-1362" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="1363-1376" text="approximately" lemma="approximately"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="1377-1378" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1379-1382" text="cm3" lemma="cm3"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1383-1385" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1386-1392" text="volume" lemma="volume"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="1393-1397" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1398-1408" text="visualized" lemma="visualize"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1409-1411" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1412-1423" text="Gd-enhanced" lemma="gd-enhanced"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1424-1426" text="MR" lemma="mr"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1427-1434" text="imaging" lemma="imaging"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1435-1439" text="post" lemma="post"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1440-1450" text="sonication" lemma="sonication"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1451-1453" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="1454-1455" text="~" lemma="~"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="1455-1456" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1457-1458" text="W" lemma="w"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1459-1467" text="acoustic" lemma="acoustic"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1468-1474" text="powers" lemma="power"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1474-1475" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_5" type="prep_of"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_3" type="quantmod"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_4" type="num"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_7" type="prep_in"/>
+            <dependency id="stp_5" t1="stt_9" t2="stt_1" type="nsubjpass"/>
+            <dependency id="stp_6" t1="stt_9" t2="stt_8" type="auxpass"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_15" type="agent"/>
+            <dependency id="stp_8" t1="stt_15" t2="stt_21" type="prep_at"/>
+            <dependency id="stp_9" t1="stt_15" t2="stt_11" type="amod"/>
+            <dependency id="stp_10" t1="stt_15" t2="stt_12" type="nn"/>
+            <dependency id="stp_11" t1="stt_15" t2="stt_13" type="nn"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_14" type="nn"/>
+            <dependency id="stp_13" t1="stt_19" t2="stt_18" type="number"/>
+            <dependency id="stp_14" t1="stt_21" t2="stt_17" type="num"/>
+            <dependency id="stp_15" t1="stt_21" t2="stt_19" type="amod"/>
+            <dependency id="stp_16" t1="stt_21" t2="stt_20" type="amod"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H BBBO))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (QP (RB approximately) (CD=H 1))
+            (NN=H cm3))
+            (PP (IN=H in)
+            (NP (NN=H volume))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H visualized)
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ Gd-enhanced) (NN MR) (NN imaging) (NN post) (NN=H sonication))
+            (PP (IN=H at)
+            (NP (CD ~)
+            (ADJP (CD 5) (NN=H W))
+            (JJ acoustic) (NNS=H powers)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1476-1650" id="S17">
+        <text xml:space="preserve">Gross examination of histology confirmed Evans blue (bound to macromolecule albumin) extravasation, and H&amp;E staining detected only scattered extravasation of red blood cells.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNP" charOffset="1476-1481" text="Gross" lemma="Gross"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1482-1493" text="examination" lemma="examination"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1494-1496" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1497-1506" text="histology" lemma="histology"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1507-1516" text="confirmed" lemma="confirm"/>
+            <token xml:space="preserve" id="stt_6" POS="NNP" charOffset="1517-1522" text="Evans" lemma="Evans"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1523-1527" text="blue" lemma="blue"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="1528-1529" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1529-1534" text="bound" lemma="bind"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="1535-1537" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1538-1551" text="macromolecule" lemma="macromolecule"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1552-1559" text="albumin" lemma="albumin"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="1559-1560" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1561-1574" text="extravasation" lemma="extravasation"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1574-1575" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1576-1579" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1580-1583" text="H&amp;E" lemma="h&amp;e"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1584-1592" text="staining" lemma="staining"/>
+            <token xml:space="preserve" id="stt_19" POS="VBD" charOffset="1593-1601" text="detected" lemma="detect"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="1602-1606" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="1607-1616" text="scattered" lemma="scatter"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1617-1630" text="extravasation" lemma="extravasation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1631-1633" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1634-1637" text="red" lemma="red"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1638-1643" text="blood" lemma="blood"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="1644-1649" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1649-1650" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nn"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_4" type="prep_of"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_19" type="conj_and"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_14" type="xcomp"/>
+            <dependency id="stp_6" t1="stt_7" t2="stt_6" type="nn"/>
+            <dependency id="stp_7" t1="stt_7" t2="stt_9" type="dep"/>
+            <dependency id="stp_8" t1="stt_9" t2="stt_12" type="prep_to"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_11" type="nn"/>
+            <dependency id="stp_10" t1="stt_14" t2="stt_7" type="nsubj"/>
+            <dependency id="stp_11" t1="stt_18" t2="stt_17" type="nn"/>
+            <dependency id="stp_12" t1="stt_19" t2="stt_18" type="nsubj"/>
+            <dependency id="stp_13" t1="stt_19" t2="stt_22" type="dobj"/>
+            <dependency id="stp_14" t1="stt_21" t2="stt_20" type="advmod"/>
+            <dependency id="stp_15" t1="stt_22" t2="stt_21" type="amod"/>
+            <dependency id="stp_16" t1="stt_22" t2="stt_26" type="prep_of"/>
+            <dependency id="stp_17" t1="stt_26" t2="stt_24" type="amod"/>
+            <dependency id="stp_18" t1="stt_26" t2="stt_25" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (NNP Gross) (NN=H examination))
+            (PP (IN=H of)
+            (NP (NN=H histology))))
+            (VP=H (VBD=H confirmed)
+            (S
+            (NP=H
+            (NP=H (NNP Evans) (NN=H blue))
+            (PRN (-LRB- -LRB-)
+            (VP=H (VBN=H bound)
+            (PP (TO=H to)
+            (NP (NN macromolecule) (NN=H albumin))))
+            (-RRB- -RRB-)))
+            (NP (NN=H extravasation)))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (NN H&amp;E) (NN=H staining))
+            (VP=H (VBD=H detected)
+            (NP
+            (NP=H
+            (ADJP (RB only) (VBN=H scattered))
+            (NN=H extravasation))
+            (PP (IN=H of)
+            (NP (JJ red) (NN blood) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1651-1775" id="S18">
+        <text xml:space="preserve">In cases where cavitation signals were above thresholds, sonications were terminated immediately without causing hemorrhage.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1651-1653" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1654-1659" text="cases" lemma="case"/>
+            <token xml:space="preserve" id="stt_3" POS="WRB" charOffset="1660-1665" text="where" lemma="where"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1666-1676" text="cavitation" lemma="cavitation"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1677-1684" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="1685-1689" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1690-1695" text="above" lemma="above"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1696-1706" text="thresholds" lemma="threshold"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="1706-1707" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1708-1719" text="sonications" lemma="sonication"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="1720-1724" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="1725-1735" text="terminated" lemma="terminate"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="1736-1747" text="immediately" lemma="immediately"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1748-1755" text="without" lemma="without"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="1756-1763" text="causing" lemma="cause"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1764-1774" text="hemorrhage" lemma="hemorrhage"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="1774-1775" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_6" type="rcmod"/>
+            <dependency id="stp_2" t1="stt_5" t2="stt_4" type="nn"/>
+            <dependency id="stp_3" t1="stt_6" t2="stt_3" type="advmod"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_5" type="nsubj"/>
+            <dependency id="stp_5" t1="stt_6" t2="stt_8" type="prep_above"/>
+            <dependency id="stp_6" t1="stt_12" t2="stt_2" type="prep_in"/>
+            <dependency id="stp_7" t1="stt_12" t2="stt_10" type="nsubjpass"/>
+            <dependency id="stp_8" t1="stt_12" t2="stt_11" type="auxpass"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_13" type="advmod"/>
+            <dependency id="stp_10" t1="stt_12" t2="stt_15" type="prepc_without"/>
+            <dependency id="stp_11" t1="stt_15" t2="stt_16" type="dobj"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NNS=H cases))
+            (SBAR
+            (WHADVP=H (WRB=H where))
+            (S
+            (NP (NN cavitation) (NNS=H signals))
+            (VP=H (VBD=H were)
+            (PP (IN=H above)
+            (NP (NNS=H thresholds))))))))
+            (, ,)
+            (NP (NNS=H sonications))
+            (VP=H (VBD=H were)
+            (VP (VBN=H terminated)
+            (ADVP (RB=H immediately))
+            (PP (IN=H without)
+            (S
+            (VP=H (VBG=H causing)
+            (NP (NN=H hemorrhage)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1804-1814" id="S19">
+        <text xml:space="preserve">Conclusion</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1804-1814" text="Conclusion" lemma="conclusion"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NN=H Conclusion)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1825-1963" id="S20">
+        <text xml:space="preserve">With a trans-human skull porcine model, this study demonstrated BBBO with the 230 kHz ExAblate system in preparation for a clinical trial.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1825-1829" text="With" lemma="with"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1830-1831" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1832-1843" text="trans-human" lemma="trans-human"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1844-1849" text="skull" lemma="skull"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1850-1857" text="porcine" lemma="porcine"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1858-1863" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="1863-1864" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1865-1869" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1870-1875" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1876-1888" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1889-1893" text="BBBO" lemma="bbbo"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1894-1898" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1899-1902" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="CD" charOffset="1903-1906" text="230" lemma="230"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1907-1910" text="kHz" lemma="khz"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1911-1919" text="ExAblate" lemma="exablate"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1920-1926" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1927-1929" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1930-1941" text="preparation" lemma="preparation"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1942-1945" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1946-1947" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1948-1956" text="clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1957-1962" text="trial" lemma="trial"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1962-1963" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_6" t2="stt_2" type="det"/>
+            <dependency id="stp_2" t1="stt_6" t2="stt_3" type="amod"/>
+            <dependency id="stp_3" t1="stt_6" t2="stt_4" type="nn"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_5" type="nn"/>
+            <dependency id="stp_5" t1="stt_9" t2="stt_8" type="det"/>
+            <dependency id="stp_6" t1="stt_10" t2="stt_17" type="prep_with"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_19" type="prep_in"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_6" type="prep_with"/>
+            <dependency id="stp_9" t1="stt_10" t2="stt_9" type="nsubj"/>
+            <dependency id="stp_10" t1="stt_10" t2="stt_11" type="dobj"/>
+            <dependency id="stp_11" t1="stt_17" t2="stt_16" type="nn"/>
+            <dependency id="stp_12" t1="stt_17" t2="stt_13" type="det"/>
+            <dependency id="stp_13" t1="stt_17" t2="stt_14" type="num"/>
+            <dependency id="stp_14" t1="stt_17" t2="stt_15" type="nn"/>
+            <dependency id="stp_15" t1="stt_19" t2="stt_23" type="prep_for"/>
+            <dependency id="stp_16" t1="stt_23" t2="stt_21" type="det"/>
+            <dependency id="stp_17" t1="stt_23" t2="stt_22" type="amod"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H With)
+            (NP (DT a) (JJ trans-human) (NN skull) (NN porcine) (NN=H model)))
+            (, ,)
+            (NP (DT this) (NN=H study))
+            (VP=H (VBD=H demonstrated)
+            (NP (NN=H BBBO))
+            (PP (IN=H with)
+            (NP (DT the) (CD 230) (NN kHz) (NN ExAblate) (NN=H system)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H preparation))
+            (PP (IN=H for)
+            (NP (DT a) (JJ clinical) (NN=H trial))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <section textSpan="117-1979" titleSpan="137-144" title="Purpose">
+        <section textSpan="126-366" titleSpan="137-144" title="Purpose"/>
+        <section textSpan="375-1317" titleSpan="386-407" title="Materials and Methods"/>
+        <section textSpan="1326-1784" titleSpan="1337-1344" title="Results"/>
+        <section textSpan="1793-1972" titleSpan="1804-1814" title="Conclusion"/>
+    </section>
+</document>

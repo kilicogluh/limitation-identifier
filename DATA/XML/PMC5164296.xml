@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMC5164296">
+    <text xml:space="preserve">Efficacy and safety of tau-aggregation inhibitor therapy in patients with mild or moderate Alzheimer’s disease: a randomised, controlled, double-blind, parallel-arm, phase 3 trial
+        Summary
+        
+          Background
+          Leuco-methylthioninium bis(hydromethanesulfonate; LMTM), a stable reduced form of the methylthioninium moiety, acts as a selective inhibitor of tau protein aggregation both in vitro and in transgenic mouse models. Methylthioninium chloride has previously shown potential efficacy as monotherapy in patients with Alzheimer’s disease. We aimed to determine whether LMTM was safe and effective in modifying disease progression in patients with mild to moderate Alzheimer’s disease.
+        
+        
+          Methods
+          We did a 15-month, randomised, controlled double-blind, parallel-group trial at 115 academic centres and private research clinics in 16 countries in Europe, North America, Asia, and Russia with patients younger than 90 years with mild to moderate Alzheimer’s disease. Patients concomitantly using other medicines for Alzheimer’s disease were permitted to be included because we considered it infeasible not to allow their inclusion; however, patients using medicines carrying warnings of methaemoglobinaemia were excluded because the oxidised form of methylthioninium in high doses has been shown to induce this condition. We randomly assigned participants (3:3:4) to 75 mg LMTM twice a day, 125 mg LMTM twice a day, or control (4 mg LMTM twice a day to maintain blinding with respect to urine or faecal discolouration) administered as oral tablets. We did the randomisation with an interactive web response system using 600 blocks of length ten, and stratified patients by severity of disease, global region, whether they were concomitantly using Alzheimer’s disease-labelled medications, and site PET capability. Participants, their study partners (generally carers), and all assessors were masked to treatment assignment throughout the study. The coprimary outcomes were progression on the Alzheimer’s Disease Assessment Scale–Cognitive Subscale (ADAS-Cog) and the Alzheimer’s Disease Co-operative Study–Activities of Daily Living Inventory (ADCS-ADL) scales from baseline assessed at week 65 in the modified intention-to-treat population. This trial is registered with Clinicaltrials.gov (NCT01689246) and the European Union Clinical Trials Registry (2012-002866-11).
+        
+        
+          Findings
+          Between Jan 29, 2013, and June 26, 2014, we recruited and randomly assigned 891 participants to treatment (357 to control, 268 to 75 mg LMTM twice a day, and 266 to 125 mg LMTM twice a day). The prespecified primary analyses did not show any treatment benefit at either of the doses tested for the coprimary outcomes (change in ADAS-Cog score compared with control [n=354, 6·32, 95% CI 5·31–7·34]: 75 mg LMTM twice a day [n=257] –0·02, –1·60 to 1·56, p=0·9834, 125 mg LMTM twice a day [n=250] –0·43, –2·06 to 1·20, p=0·9323; change in ADCS-ADL score compared with control [–8·22, 95% CI –9·63 to –6·82]: 75 mg LMTM twice a day –0·93, –3·12 to 1·26, p=0·8659; 125 mg LMTM twice a day –0·34, –2·61 to 1·93, p=0·9479). Gastrointestinal and urinary effects were the most common adverse events with both high doses of LMTM, and the most common causes for discontinuation. Non-clinically significant dose-dependent reductions in haemoglobin concentrations were the most common laboratory abnormality. Amyloid-related imaging abnormalities were noted in less than 1% (8/885) of participants.
+        
+        
+          Interpretation
+          The primary analysis for this study was negative, and the results do not suggest benefit of LMTM as an add-on treatment for patients with mild to moderate Alzheimer’s disease. Findings from a recently completed 18-month trial of patients with mild Alzheimer’s disease will be reported soon.
+        
+        
+          Funding
+          TauRx Therapeutics.
+        
+      </text>
+    <sentence charOffset="0-179" id="S1">
+        <text xml:space="preserve">Efficacy and safety of tau-aggregation inhibitor therapy in patients with mild or moderate Alzheimer’s disease: a randomised, controlled, double-blind, parallel-arm, phase 3 trial</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-8" text="Efficacy" lemma="efficacy"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="9-12" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="13-19" text="safety" lemma="safety"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="20-22" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="23-38" text="tau-aggregation" lemma="tau-aggregation"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="39-48" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="49-56" text="therapy" lemma="therapy"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="57-59" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="60-68" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="69-73" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="74-78" text="mild" lemma="mild"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="79-81" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="82-90" text="moderate" lemma="moderate"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="91-100" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_15" POS="POS" charOffset="100-102" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="103-110" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_17" POS=":" charOffset="110-111" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="112-113" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="114-124" text="randomised" lemma="randomise"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="124-125" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="126-136" text="controlled" lemma="control"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="136-137" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="138-150" text="double-blind" lemma="double-blind"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="150-151" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="152-164" text="parallel-arm" lemma="parallel-arm"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="164-165" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="166-171" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_28" POS="CD" charOffset="172-173" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="174-179" text="trial" lemma="trial"/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_16" type="prep_of"/>
+            <dependency id="stp_2" t1="stt_1" t2="stt_3" type="conj_and"/>
+            <dependency id="stp_3" t1="stt_7" t2="stt_5" type="nn"/>
+            <dependency id="stp_4" t1="stt_7" t2="stt_6" type="nn"/>
+            <dependency id="stp_5" t1="stt_7" t2="stt_9" type="prep_in"/>
+            <dependency id="stp_6" t1="stt_9" t2="stt_14" type="prep_with"/>
+            <dependency id="stp_7" t1="stt_11" t2="stt_13" type="conj_or"/>
+            <dependency id="stp_8" t1="stt_14" t2="stt_11" type="amod"/>
+            <dependency id="stp_9" t1="stt_14" t2="stt_13" type="amod"/>
+            <dependency id="stp_10" t1="stt_16" t2="stt_18" type="dep"/>
+            <dependency id="stp_11" t1="stt_16" t2="stt_7" type="poss"/>
+            <dependency id="stp_12" t1="stt_18" t2="stt_19" type="dep"/>
+            <dependency id="stp_13" t1="stt_19" t2="stt_21" type="dep"/>
+            <dependency id="stp_14" t1="stt_19" t2="stt_23" type="dobj"/>
+            <dependency id="stp_15" t1="stt_23" t2="stt_25" type="appos"/>
+            <dependency id="stp_16" t1="stt_25" t2="stt_29" type="appos"/>
+            <dependency id="stp_17" t1="stt_29" t2="stt_27" type="nn"/>
+            <dependency id="stp_18" t1="stt_29" t2="stt_28" type="num"/>
+        </dependencies>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Efficacy)
+            (CC and)
+            (NN safety))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP
+            (NP (NN tau-aggregation) (NN inhibitor) (NN=H therapy))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H patients))
+            (PP (IN=H with)
+            (NP
+            (ADJP (JJ=H mild)
+            (CC or)
+            (JJ moderate))
+            (NN=H Alzheimer)))))
+            (POS=H 's))
+            (NN=H disease))
+            (: :)
+            (NP
+            (NP=H (DT=H a))
+            (VP
+            (VP=H (VBN=H randomised))
+            (, ,)
+            (VP (VBN=H controlled))
+            (, ,)
+            (NP
+            (NP=H (JJ=H double-blind))
+            (, ,)
+            (NP
+            (NP=H (NN=H parallel-arm))
+            (, ,)
+            (NP (NN phase) (CD 3) (NN=H trial))))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="188-195" id="S2">
+        <text xml:space="preserve">Summary</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="188-195" text="Summary" lemma="summary"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NN=H Summary)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="215-225" id="S3">
+        <text xml:space="preserve">Background</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="215-225" text="Background" lemma="background"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NN=H Background)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="236-449" id="S4">
+        <text xml:space="preserve">Leuco-methylthioninium bis(hydromethanesulfonate; LMTM), a stable reduced form of the methylthioninium moiety, acts as a selective inhibitor of tau protein aggregation both in vitro and in transgenic mouse models.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="236-258" text="Leuco-methylthioninium" lemma="leuco-methylthioninium"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="259-262" text="bis" lemma="bi"/>
+            <token xml:space="preserve" id="stt_3" POS="-LRB-" charOffset="262-263" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="263-284" text="hydromethanesulfonate" lemma="hydromethanesulfonate"/>
+            <token xml:space="preserve" id="stt_5" POS=":" charOffset="284-285" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_6" POS="NNP" charOffset="286-290" text="LMTM" lemma="LMTM"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="290-291" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="291-292" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="293-294" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="295-301" text="stable" lemma="stable"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="302-309" text="reduced" lemma="reduced"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="310-314" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="315-317" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="318-321" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="322-338" text="methylthioninium" lemma="methylthioninium"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="339-345" text="moiety" lemma="moiety"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="345-346" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="347-351" text="acts" lemma="act"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="352-354" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="355-356" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="357-366" text="selective" lemma="selective"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="367-376" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="377-379" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="380-383" text="tau" lemma="tau"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="384-391" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="392-403" text="aggregation" lemma="aggregation"/>
+            <token xml:space="preserve" id="stt_27" POS="CC" charOffset="404-408" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_28" POS="FW" charOffset="409-411" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="FW" charOffset="412-417" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="418-421" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="422-424" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="425-435" text="transgenic" lemma="transgenic"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="436-441" text="mouse" lemma="mouse"/>
+            <token xml:space="preserve" id="stt_34" POS="NNS" charOffset="442-448" text="models" lemma="model"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="448-449" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nn"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_4" type="appos"/>
+            <dependency id="stp_3" t1="stt_2" t2="stt_12" type="appos"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_6" type="dep"/>
+            <dependency id="stp_5" t1="stt_12" t2="stt_16" type="prep_of"/>
+            <dependency id="stp_6" t1="stt_12" t2="stt_9" type="det"/>
+            <dependency id="stp_7" t1="stt_12" t2="stt_10" type="amod"/>
+            <dependency id="stp_8" t1="stt_12" t2="stt_11" type="amod"/>
+            <dependency id="stp_9" t1="stt_16" t2="stt_14" type="det"/>
+            <dependency id="stp_10" t1="stt_16" t2="stt_15" type="nn"/>
+            <dependency id="stp_11" t1="stt_18" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_12" t1="stt_18" t2="stt_22" type="prep_as"/>
+            <dependency id="stp_13" t1="stt_22" t2="stt_20" type="det"/>
+            <dependency id="stp_14" t1="stt_22" t2="stt_21" type="amod"/>
+            <dependency id="stp_15" t1="stt_22" t2="stt_26" type="prep_of"/>
+            <dependency id="stp_16" t1="stt_26" t2="stt_24" type="nn"/>
+            <dependency id="stp_17" t1="stt_26" t2="stt_25" type="nn"/>
+            <dependency id="stp_18" t1="stt_26" t2="stt_27" type="prep"/>
+            <dependency id="stp_19" t1="stt_27" t2="stt_34" type="pobj"/>
+            <dependency id="stp_20" t1="stt_29" t2="stt_28" type="nn"/>
+            <dependency id="stp_21" t1="stt_29" t2="stt_31" type="conj_and"/>
+            <dependency id="stp_22" t1="stt_31" t2="stt_33" type="pobj"/>
+            <dependency id="stp_23" t1="stt_33" t2="stt_32" type="amod"/>
+            <dependency id="stp_24" t1="stt_34" t2="stt_29" type="dep"/>
+            <dependency id="stp_25" t1="stt_34" t2="stt_31" type="dep"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Leuco-methylthioninium) (NN=H bis))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN=H hydromethanesulfonate))
+            (: ;)
+            (NP (NNP=H LMTM)))
+            (-RRB- -RRB-))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ stable) (JJ reduced) (NN=H form))
+            (PP (IN=H of)
+            (NP (DT the) (NN methylthioninium) (NN=H moiety))))
+            (, ,))
+            (VP=H (VBZ=H acts)
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (JJ selective) (NN=H inhibitor))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN tau) (NN protein) (NN=H aggregation))
+            (PP (CC=H both)
+            (NP
+            (UCP
+            (ADVP=H (FW in) (FW=H vitro))
+            (CC and)
+            (PP (IN=H in)
+            (NP (JJ transgenic) (NN=H mouse))))
+            (NNS=H models))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="450-568" id="S5">
+        <text xml:space="preserve">Methylthioninium chloride has previously shown potential efficacy as monotherapy in patients with Alzheimer’s disease.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="450-466" text="Methylthioninium" lemma="methylthioninium"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="467-475" text="chloride" lemma="chloride"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="476-479" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="480-490" text="previously" lemma="previously"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="491-496" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="497-506" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="507-515" text="efficacy" lemma="efficacy"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="516-518" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="519-530" text="monotherapy" lemma="monotherapy"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="531-533" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="534-542" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="543-547" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="548-557" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_14" POS="POS" charOffset="557-559" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="560-567" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="567-568" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nn"/>
+            <dependency id="stp_2" t1="stt_5" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_3" type="aux"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="advmod"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_7" type="dobj"/>
+            <dependency id="stp_6" t1="stt_5" t2="stt_9" type="prep_as"/>
+            <dependency id="stp_7" t1="stt_5" t2="stt_11" type="prep_in"/>
+            <dependency id="stp_8" t1="stt_7" t2="stt_6" type="amod"/>
+            <dependency id="stp_9" t1="stt_11" t2="stt_15" type="prep_with"/>
+            <dependency id="stp_10" t1="stt_15" t2="stt_13" type="poss"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Methylthioninium) (NN=H chloride))
+            (VP=H (VBZ=H has)
+            (ADVP (RB=H previously))
+            (VP (VBN=H shown)
+            (NP (JJ potential) (NN=H efficacy))
+            (PP (IN=H as)
+            (NP (NN=H monotherapy)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H patients))
+            (PP (IN=H with)
+            (NP
+            (NP (NN Alzheimer) (POS=H 's))
+            (NN=H disease)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="569-714" id="S6">
+        <text xml:space="preserve">We aimed to determine whether LMTM was safe and effective in modifying disease progression in patients with mild to moderate Alzheimer’s disease.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="569-571" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="572-577" text="aimed" lemma="aim"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="578-580" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="581-590" text="determine" lemma="determine"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="591-598" text="whether" lemma="whether"/>
+            <token xml:space="preserve" id="stt_6" POS="NNP" charOffset="599-603" text="LMTM" lemma="LMTM"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="604-607" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="608-612" text="safe" lemma="safe"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="613-616" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="617-626" text="effective" lemma="effective"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="627-629" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="630-639" text="modifying" lemma="modify"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="640-647" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="648-659" text="progression" lemma="progression"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="660-662" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="663-671" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="672-676" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="677-681" text="mild" lemma="mild"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="682-684" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="685-693" text="moderate" lemma="moderate"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="694-703" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_22" POS="POS" charOffset="703-705" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="706-713" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="713-714" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nsubj"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_4" type="xcomp"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="aux"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_8" type="ccomp"/>
+            <dependency id="stp_5" t1="stt_4" t2="stt_10" type="ccomp"/>
+            <dependency id="stp_6" t1="stt_8" t2="stt_5" type="mark"/>
+            <dependency id="stp_7" t1="stt_8" t2="stt_6" type="nsubj"/>
+            <dependency id="stp_8" t1="stt_8" t2="stt_7" type="cop"/>
+            <dependency id="stp_9" t1="stt_8" t2="stt_10" type="conj_and"/>
+            <dependency id="stp_10" t1="stt_8" t2="stt_12" type="prepc_in"/>
+            <dependency id="stp_11" t1="stt_10" t2="stt_6" type="nsubj"/>
+            <dependency id="stp_12" t1="stt_12" t2="stt_16" type="prep_in"/>
+            <dependency id="stp_13" t1="stt_12" t2="stt_23" type="prep_to"/>
+            <dependency id="stp_14" t1="stt_12" t2="stt_14" type="dobj"/>
+            <dependency id="stp_15" t1="stt_14" t2="stt_13" type="nn"/>
+            <dependency id="stp_16" t1="stt_16" t2="stt_18" type="prep_with"/>
+            <dependency id="stp_17" t1="stt_21" t2="stt_20" type="amod"/>
+            <dependency id="stp_18" t1="stt_23" t2="stt_21" type="poss"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H aimed)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H determine)
+            (SBAR (IN=H whether)
+            (S
+            (NP (NNP=H LMTM))
+            (VP=H (VBD=H was)
+            (ADJP (JJ=H safe)
+            (CC and)
+            (JJ effective))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H modifying)
+            (NP (NN disease) (NN=H progression))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H patients))
+            (PP (IN=H with)
+            (NP (JJ=H mild)))))
+            (PP (TO=H to)
+            (NP
+            (NP (JJ moderate) (NN Alzheimer) (POS=H 's))
+            (NN=H disease)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="743-750" id="S7">
+        <text xml:space="preserve">Methods</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="743-750" text="Methods" lemma="method"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NNS=H Methods)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="761-1028" id="S8">
+        <text xml:space="preserve">We did a 15-month, randomised, controlled double-blind, parallel-group trial at 115 academic centres and private research clinics in 16 countries in Europe, North America, Asia, and Russia with patients younger than 90 years with mild to moderate Alzheimer’s disease.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="761-763" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="764-767" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="768-769" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="770-778" text="15-month" lemma="15-month"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="778-779" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="780-790" text="randomised" lemma="randomised"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="790-791" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="792-802" text="controlled" lemma="controlled"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="803-815" text="double-blind" lemma="double-blind"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="815-816" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="817-831" text="parallel-group" lemma="parallel-group"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="832-837" text="trial" lemma="trial"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="838-840" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_14" POS="CD" charOffset="841-844" text="115" lemma="115"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="845-853" text="academic" lemma="academic"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="854-861" text="centres" lemma="centre"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="862-865" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="866-873" text="private" lemma="private"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="874-882" text="research" lemma="research"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="883-890" text="clinics" lemma="clinic"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="891-893" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="CD" charOffset="894-896" text="16" lemma="16"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="897-906" text="countries" lemma="country"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="907-909" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="NNP" charOffset="910-916" text="Europe" lemma="Europe"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="916-917" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="NNP" charOffset="918-923" text="North" lemma="North"/>
+            <token xml:space="preserve" id="stt_28" POS="NNP" charOffset="924-931" text="America" lemma="America"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="931-932" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="NNP" charOffset="933-937" text="Asia" lemma="Asia"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="937-938" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="939-942" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_33" POS="NNP" charOffset="943-949" text="Russia" lemma="Russia"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="950-954" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_35" POS="NNS" charOffset="955-963" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_36" POS="JJR" charOffset="964-971" text="younger" lemma="younger"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="972-976" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_38" POS="CD" charOffset="977-979" text="90" lemma="90"/>
+            <token xml:space="preserve" id="stt_39" POS="NNS" charOffset="980-985" text="years" lemma="year"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="986-990" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="991-995" text="mild" lemma="mild"/>
+            <token xml:space="preserve" id="stt_42" POS="TO" charOffset="996-998" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_43" POS="JJ" charOffset="999-1007" text="moderate" lemma="moderate"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="1008-1017" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_45" POS="POS" charOffset="1017-1019" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="1020-1027" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_47" POS="." charOffset="1027-1028" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nsubj"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_20" type="dobj"/>
+            <dependency id="stp_3" t1="stt_2" t2="stt_36" type="prep_with"/>
+            <dependency id="stp_4" t1="stt_2" t2="stt_12" type="dobj"/>
+            <dependency id="stp_5" t1="stt_2" t2="stt_46" type="prep_to"/>
+            <dependency id="stp_6" t1="stt_12" t2="stt_16" type="prep_at"/>
+            <dependency id="stp_7" t1="stt_12" t2="stt_3" type="det"/>
+            <dependency id="stp_8" t1="stt_12" t2="stt_4" type="amod"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_20" type="conj_and"/>
+            <dependency id="stp_10" t1="stt_12" t2="stt_6" type="amod"/>
+            <dependency id="stp_11" t1="stt_12" t2="stt_8" type="amod"/>
+            <dependency id="stp_12" t1="stt_12" t2="stt_9" type="amod"/>
+            <dependency id="stp_13" t1="stt_12" t2="stt_11" type="amod"/>
+            <dependency id="stp_14" t1="stt_16" t2="stt_14" type="num"/>
+            <dependency id="stp_15" t1="stt_16" t2="stt_15" type="amod"/>
+            <dependency id="stp_16" t1="stt_20" t2="stt_18" type="amod"/>
+            <dependency id="stp_17" t1="stt_20" t2="stt_19" type="nn"/>
+            <dependency id="stp_18" t1="stt_20" t2="stt_23" type="prep_in"/>
+            <dependency id="stp_19" t1="stt_23" t2="stt_33" type="prep_in"/>
+            <dependency id="stp_20" t1="stt_23" t2="stt_22" type="num"/>
+            <dependency id="stp_21" t1="stt_23" t2="stt_25" type="prep_in"/>
+            <dependency id="stp_22" t1="stt_23" t2="stt_28" type="prep_in"/>
+            <dependency id="stp_23" t1="stt_23" t2="stt_30" type="prep_in"/>
+            <dependency id="stp_24" t1="stt_25" t2="stt_33" type="conj_and"/>
+            <dependency id="stp_25" t1="stt_25" t2="stt_28" type="conj_and"/>
+            <dependency id="stp_26" t1="stt_25" t2="stt_30" type="conj_and"/>
+            <dependency id="stp_27" t1="stt_28" t2="stt_27" type="nn"/>
+            <dependency id="stp_28" t1="stt_36" t2="stt_35" type="dep"/>
+            <dependency id="stp_29" t1="stt_36" t2="stt_39" type="prep_than"/>
+            <dependency id="stp_30" t1="stt_39" t2="stt_38" type="num"/>
+            <dependency id="stp_31" t1="stt_39" t2="stt_41" type="prep_with"/>
+            <dependency id="stp_32" t1="stt_44" t2="stt_43" type="amod"/>
+            <dependency id="stp_33" t1="stt_46" t2="stt_44" type="poss"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H did)
+            (NP
+            (NP=H
+            (NP=H (DT a) (JJ 15-month) (, ,) (JJ randomised) (, ,) (JJ controlled) (JJ double-blind) (, ,) (JJ parallel-group) (NN=H trial))
+            (PP (IN=H at)
+            (NP (CD 115) (JJ academic) (NNS=H centres))))
+            (CC and)
+            (NP
+            (NP=H (JJ private) (NN research) (NNS=H clinics))
+            (PP (IN=H in)
+            (NP
+            (NP=H (CD 16) (NNS=H countries))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNP=H Europe))
+            (, ,)
+            (NP (NNP North) (NNP=H America))
+            (, ,)
+            (NP (NNP=H Asia))
+            (, ,)
+            (CC and)
+            (NP (NNP=H Russia))))))))
+            (PP (IN=H with)
+            (NP
+            (NP=H
+            (NP (NNS=H patients))
+            (JJR=H younger))
+            (PP (IN=H than)
+            (NP
+            (NP=H (CD 90) (NNS=H years))
+            (PP (IN=H with)
+            (NP (JJ=H mild)))))))
+            (PP (TO=H to)
+            (NP
+            (NP (JJ moderate) (NN Alzheimer) (POS=H 's))
+            (NN=H disease))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1029-1383" id="S9">
+        <text xml:space="preserve">Patients concomitantly using other medicines for Alzheimer’s disease were permitted to be included because we considered it infeasible not to allow their inclusion; however, patients using medicines carrying warnings of methaemoglobinaemia were excluded because the oxidised form of methylthioninium in high doses has been shown to induce this condition.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1029-1037" text="Patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="1038-1051" text="concomitantly" lemma="concomitantly"/>
+            <token xml:space="preserve" id="stt_3" POS="VBG" charOffset="1052-1057" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1058-1063" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1064-1073" text="medicines" lemma="medicine"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1074-1077" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1078-1087" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_8" POS="POS" charOffset="1087-1089" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1090-1097" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1098-1102" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1103-1112" text="permitted" lemma="permit"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="1113-1115" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="1116-1118" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="1119-1127" text="included" lemma="include"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1128-1135" text="because" lemma="because"/>
+            <token xml:space="preserve" id="stt_16" POS="PRP" charOffset="1136-1138" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="1139-1149" text="considered" lemma="consider"/>
+            <token xml:space="preserve" id="stt_18" POS="PRP" charOffset="1150-1152" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1153-1163" text="infeasible" lemma="infeasible"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="1164-1167" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="1168-1170" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="VB" charOffset="1171-1176" text="allow" lemma="allow"/>
+            <token xml:space="preserve" id="stt_23" POS="PRP$" charOffset="1177-1182" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1183-1192" text="inclusion" lemma="inclusion"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="1192-1193" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="1194-1201" text="however" lemma="however"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1201-1202" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="1203-1211" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_29" POS="VBG" charOffset="1212-1217" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1218-1227" text="medicines" lemma="medicine"/>
+            <token xml:space="preserve" id="stt_31" POS="VBG" charOffset="1228-1236" text="carrying" lemma="carry"/>
+            <token xml:space="preserve" id="stt_32" POS="NNS" charOffset="1237-1245" text="warnings" lemma="warning"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="1246-1248" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1249-1268" text="methaemoglobinaemia" lemma="methaemoglobinaemia"/>
+            <token xml:space="preserve" id="stt_35" POS="VBD" charOffset="1269-1273" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_36" POS="VBN" charOffset="1274-1282" text="excluded" lemma="exclude"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="1283-1290" text="because" lemma="because"/>
+            <token xml:space="preserve" id="stt_38" POS="DT" charOffset="1291-1294" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="1295-1303" text="oxidised" lemma="oxidised"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1304-1308" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_41" POS="IN" charOffset="1309-1311" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="1312-1328" text="methylthioninium" lemma="methylthioninium"/>
+            <token xml:space="preserve" id="stt_43" POS="IN" charOffset="1329-1331" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_44" POS="JJ" charOffset="1332-1336" text="high" lemma="high"/>
+            <token xml:space="preserve" id="stt_45" POS="NNS" charOffset="1337-1342" text="doses" lemma="dose"/>
+            <token xml:space="preserve" id="stt_46" POS="VBZ" charOffset="1343-1346" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_47" POS="VBN" charOffset="1347-1351" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_48" POS="VBN" charOffset="1352-1357" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_49" POS="TO" charOffset="1358-1360" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_50" POS="VB" charOffset="1361-1367" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_51" POS="DT" charOffset="1368-1372" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_52" POS="NN" charOffset="1373-1382" text="condition" lemma="condition"/>
+            <token xml:space="preserve" id="stt_53" POS="." charOffset="1382-1383" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_3" type="vmod"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="advmod"/>
+            <dependency id="stp_3" t1="stt_3" t2="stt_5" type="dobj"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="amod"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_9" type="prep_for"/>
+            <dependency id="stp_6" t1="stt_9" t2="stt_7" type="poss"/>
+            <dependency id="stp_7" t1="stt_11" t2="stt_1" type="nsubjpass"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_36" type="parataxis"/>
+            <dependency id="stp_9" t1="stt_11" t2="stt_10" type="auxpass"/>
+            <dependency id="stp_10" t1="stt_11" t2="stt_14" type="xcomp"/>
+            <dependency id="stp_11" t1="stt_14" t2="stt_17" type="advcl"/>
+            <dependency id="stp_12" t1="stt_14" t2="stt_12" type="aux"/>
+            <dependency id="stp_13" t1="stt_14" t2="stt_13" type="auxpass"/>
+            <dependency id="stp_14" t1="stt_17" t2="stt_16" type="nsubj"/>
+            <dependency id="stp_15" t1="stt_17" t2="stt_18" type="dobj"/>
+            <dependency id="stp_16" t1="stt_17" t2="stt_22" type="xcomp"/>
+            <dependency id="stp_17" t1="stt_17" t2="stt_15" type="mark"/>
+            <dependency id="stp_18" t1="stt_18" t2="stt_19" type="amod"/>
+            <dependency id="stp_19" t1="stt_22" t2="stt_20" type="neg"/>
+            <dependency id="stp_20" t1="stt_22" t2="stt_21" type="aux"/>
+            <dependency id="stp_21" t1="stt_22" t2="stt_24" type="dobj"/>
+            <dependency id="stp_22" t1="stt_24" t2="stt_23" type="poss"/>
+            <dependency id="stp_23" t1="stt_28" t2="stt_29" type="vmod"/>
+            <dependency id="stp_24" t1="stt_29" t2="stt_32" type="dobj"/>
+            <dependency id="stp_25" t1="stt_32" t2="stt_34" type="prep_of"/>
+            <dependency id="stp_26" t1="stt_32" t2="stt_30" type="nn"/>
+            <dependency id="stp_27" t1="stt_32" t2="stt_31" type="amod"/>
+            <dependency id="stp_28" t1="stt_36" t2="stt_48" type="advcl"/>
+            <dependency id="stp_29" t1="stt_36" t2="stt_35" type="auxpass"/>
+            <dependency id="stp_30" t1="stt_36" t2="stt_26" type="advmod"/>
+            <dependency id="stp_31" t1="stt_36" t2="stt_28" type="nsubjpass"/>
+            <dependency id="stp_32" t1="stt_40" t2="stt_38" type="det"/>
+            <dependency id="stp_33" t1="stt_40" t2="stt_39" type="amod"/>
+            <dependency id="stp_34" t1="stt_40" t2="stt_42" type="prep_of"/>
+            <dependency id="stp_35" t1="stt_42" t2="stt_45" type="prep_in"/>
+            <dependency id="stp_36" t1="stt_45" t2="stt_44" type="amod"/>
+            <dependency id="stp_37" t1="stt_48" t2="stt_50" type="xcomp"/>
+            <dependency id="stp_38" t1="stt_48" t2="stt_37" type="mark"/>
+            <dependency id="stp_39" t1="stt_48" t2="stt_40" type="nsubjpass"/>
+            <dependency id="stp_40" t1="stt_48" t2="stt_46" type="aux"/>
+            <dependency id="stp_41" t1="stt_48" t2="stt_47" type="auxpass"/>
+            <dependency id="stp_42" t1="stt_50" t2="stt_49" type="aux"/>
+            <dependency id="stp_43" t1="stt_50" t2="stt_52" type="dobj"/>
+            <dependency id="stp_44" t1="stt_52" t2="stt_51" type="det"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (NNS=H Patients))
+            (VP
+            (ADVP (RB=H concomitantly))
+            (VBG=H using)
+            (NP
+            (NP=H (JJ other) (NNS=H medicines))
+            (PP (IN=H for)
+            (NP
+            (NP (NN Alzheimer) (POS=H 's))
+            (NN=H disease))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H permitted)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (VP (VBN=H included)
+            (SBAR (IN=H because)
+            (S
+            (NP (PRP=H we))
+            (VP=H (VBD=H considered)
+            (NP (PRP=H it) (JJ infeasible))
+            (S (RB not)
+            (VP=H (TO=H to)
+            (VP (VB=H allow)
+            (NP (PRP$ their) (NN=H inclusion)))))))))))))))
+            (: ;)
+            (S
+            (ADVP (RB=H however))
+            (, ,)
+            (NP
+            (NP=H (NNS=H patients))
+            (VP (VBG=H using)
+            (NP
+            (NP=H (NNS medicines) (VBG carrying) (NNS=H warnings))
+            (PP (IN=H of)
+            (NP (NN=H methaemoglobinaemia))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H excluded)
+            (SBAR (IN=H because)
+            (S
+            (NP
+            (NP=H (DT the) (JJ oxidised) (NN=H form))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H methylthioninium))
+            (PP (IN=H in)
+            (NP (JJ high) (NNS=H doses))))))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP (DT this) (NN=H condition)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1384-1610" id="S10">
+        <text xml:space="preserve">We randomly assigned participants (3:3:4) to 75 mg LMTM twice a day, 125 mg LMTM twice a day, or control (4 mg LMTM twice a day to maintain blinding with respect to urine or faecal discolouration) administered as oral tablets.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1384-1386" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="1387-1395" text="randomly" lemma="randomly"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="1396-1404" text="assigned" lemma="assign"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1405-1417" text="participants" lemma="participant"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="1418-1419" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="1419-1424" text="3:3:4" lemma="3:3:4"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="1424-1425" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1426-1428" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="1429-1431" text="75" lemma="75"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1432-1434" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1435-1439" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="1440-1445" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1446-1447" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1448-1451" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1451-1452" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CD" charOffset="1453-1456" text="125" lemma="125"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1457-1459" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1460-1464" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="1465-1470" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1471-1472" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1473-1476" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="1476-1477" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="1478-1480" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1481-1488" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_25" POS="-LRB-" charOffset="1489-1490" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_26" POS="CD" charOffset="1490-1491" text="4" lemma="4"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1492-1494" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1495-1499" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_29" POS="RB" charOffset="1500-1505" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="1506-1507" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1508-1511" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_32" POS="TO" charOffset="1512-1514" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_33" POS="VB" charOffset="1515-1523" text="maintain" lemma="maintain"/>
+            <token xml:space="preserve" id="stt_34" POS="VBG" charOffset="1524-1532" text="blinding" lemma="blind"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="1533-1537" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1538-1545" text="respect" lemma="respect"/>
+            <token xml:space="preserve" id="stt_37" POS="TO" charOffset="1546-1548" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1549-1554" text="urine" lemma="urine"/>
+            <token xml:space="preserve" id="stt_39" POS="CC" charOffset="1555-1557" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_40" POS="JJ" charOffset="1558-1564" text="faecal" lemma="faecal"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1565-1579" text="discolouration" lemma="discolouration"/>
+            <token xml:space="preserve" id="stt_42" POS="-RRB-" charOffset="1579-1580" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_43" POS="VBN" charOffset="1581-1593" text="administered" lemma="administer"/>
+            <token xml:space="preserve" id="stt_44" POS="IN" charOffset="1594-1596" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_45" POS="JJ" charOffset="1597-1601" text="oral" lemma="oral"/>
+            <token xml:space="preserve" id="stt_46" POS="NNS" charOffset="1602-1609" text="tablets" lemma="tablet"/>
+            <token xml:space="preserve" id="stt_47" POS="." charOffset="1609-1610" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="nsubj"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="advmod"/>
+            <dependency id="stp_3" t1="stt_3" t2="stt_4" type="dobj"/>
+            <dependency id="stp_4" t1="stt_3" t2="stt_24" type="prep_to"/>
+            <dependency id="stp_5" t1="stt_3" t2="stt_14" type="prep_to"/>
+            <dependency id="stp_6" t1="stt_4" t2="stt_6" type="appos"/>
+            <dependency id="stp_7" t1="stt_11" t2="stt_9" type="num"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_10" type="nn"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_11" type="npadvmod"/>
+            <dependency id="stp_10" t1="stt_14" t2="stt_19" type="advmod"/>
+            <dependency id="stp_11" t1="stt_14" t2="stt_24" type="conj_or"/>
+            <dependency id="stp_12" t1="stt_14" t2="stt_43" type="vmod"/>
+            <dependency id="stp_13" t1="stt_14" t2="stt_12" type="advmod"/>
+            <dependency id="stp_14" t1="stt_14" t2="stt_13" type="det"/>
+            <dependency id="stp_15" t1="stt_14" t2="stt_31" type="dep"/>
+            <dependency id="stp_16" t1="stt_18" t2="stt_16" type="num"/>
+            <dependency id="stp_17" t1="stt_18" t2="stt_17" type="nn"/>
+            <dependency id="stp_18" t1="stt_19" t2="stt_18" type="npadvmod"/>
+            <dependency id="stp_19" t1="stt_19" t2="stt_21" type="pobj"/>
+            <dependency id="stp_20" t1="stt_21" t2="stt_20" type="det"/>
+            <dependency id="stp_21" t1="stt_28" t2="stt_26" type="num"/>
+            <dependency id="stp_22" t1="stt_28" t2="stt_27" type="nn"/>
+            <dependency id="stp_23" t1="stt_29" t2="stt_28" type="npadvmod"/>
+            <dependency id="stp_24" t1="stt_31" t2="stt_33" type="vmod"/>
+            <dependency id="stp_25" t1="stt_31" t2="stt_41" type="prep_to"/>
+            <dependency id="stp_26" t1="stt_31" t2="stt_29" type="advmod"/>
+            <dependency id="stp_27" t1="stt_31" t2="stt_30" type="det"/>
+            <dependency id="stp_28" t1="stt_33" t2="stt_32" type="aux"/>
+            <dependency id="stp_29" t1="stt_33" t2="stt_34" type="xcomp"/>
+            <dependency id="stp_30" t1="stt_34" t2="stt_36" type="prep_with"/>
+            <dependency id="stp_31" t1="stt_38" t2="stt_40" type="conj_or"/>
+            <dependency id="stp_32" t1="stt_41" t2="stt_38" type="nn"/>
+            <dependency id="stp_33" t1="stt_41" t2="stt_40" type="nn"/>
+            <dependency id="stp_34" t1="stt_43" t2="stt_46" type="prep_as"/>
+            <dependency id="stp_35" t1="stt_46" t2="stt_45" type="amod"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H randomly))
+            (VP=H (VBD=H assigned)
+            (NP
+            (NP=H (NNS=H participants))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD=H 3:3:4))
+            (-RRB- -RRB-)))
+            (PP (TO=H to)
+            (NP
+            (NP=H
+            (ADVP
+            (NP (CD 75) (NN mg) (NN=H LMTM))
+            (RB=H twice))
+            (NP=H
+            (NP=H (DT a) (NN=H day))
+            (, ,)
+            (ADVP
+            (NP (CD 125) (NN mg) (NN=H LMTM))
+            (RB=H twice)
+            (NP-TMP (DT a) (NN=H day)))
+            (, ,))
+            (CC or)
+            (NP (NN=H control)))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H
+            (ADVP
+            (NP (CD 4) (NN mg) (NN=H LMTM))
+            (RB=H twice))
+            (DT a) (NN=H day))
+            (SBAR
+            (S=H
+            (VP=H (TO=H to)
+            (VP (VB=H maintain)
+            (S
+            (VP=H (VBG=H blinding)
+            (PP (IN=H with)
+            (NP (NN=H respect)))))))))
+            (PP (TO=H to)
+            (NP
+            (NP (NN=H urine)
+            (CC or)
+            (JJ faecal))
+            (NN=H discolouration))))
+            (-RRB- -RRB-))
+            (VP (VBN=H administered)
+            (PP (IN=H as)
+            (NP (JJ oral) (NNS=H tablets)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1611-1875" id="S11">
+        <text xml:space="preserve">We did the randomisation with an interactive web response system using 600 blocks of length ten, and stratified patients by severity of disease, global region, whether they were concomitantly using Alzheimer’s disease-labelled medications, and site PET capability.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1611-1613" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="1614-1617" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1618-1621" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1622-1635" text="randomisation" lemma="randomisation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1636-1640" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1641-1643" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1644-1655" text="interactive" lemma="interactive"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1656-1659" text="web" lemma="web"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1660-1668" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1669-1675" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="1676-1681" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_12" POS="CD" charOffset="1682-1685" text="600" lemma="600"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1686-1692" text="blocks" lemma="block"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1693-1695" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1696-1702" text="length" lemma="length"/>
+            <token xml:space="preserve" id="stt_16" POS="CD" charOffset="1703-1706" text="ten" lemma="ten"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="1706-1707" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="1708-1711" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1712-1722" text="stratified" lemma="stratified"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1723-1731" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1732-1734" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1735-1743" text="severity" lemma="severity"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1744-1746" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1747-1754" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="1754-1755" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="1756-1762" text="global" lemma="global"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1763-1769" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_28" POS="," charOffset="1769-1770" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1771-1778" text="whether" lemma="whether"/>
+            <token xml:space="preserve" id="stt_30" POS="PRP" charOffset="1779-1783" text="they" lemma="they"/>
+            <token xml:space="preserve" id="stt_31" POS="VBD" charOffset="1784-1788" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="1789-1802" text="concomitantly" lemma="concomitantly"/>
+            <token xml:space="preserve" id="stt_33" POS="VBG" charOffset="1803-1808" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1809-1818" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_35" POS="POS" charOffset="1818-1820" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="1821-1837" text="disease-labelled" lemma="disease-labelled"/>
+            <token xml:space="preserve" id="stt_37" POS="NNS" charOffset="1838-1849" text="medications" lemma="medication"/>
+            <token xml:space="preserve" id="stt_38" POS="," charOffset="1849-1850" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_39" POS="CC" charOffset="1851-1854" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1855-1859" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1860-1863" text="PET" lemma="pet"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="1864-1874" text="capability" lemma="capability"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="1874-1875" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nsubj"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_33" type="ccomp"/>
+            <dependency id="stp_3" t1="stt_2" t2="stt_4" type="dobj"/>
+            <dependency id="stp_4" t1="stt_2" t2="stt_10" type="prep_with"/>
+            <dependency id="stp_5" t1="stt_2" t2="stt_11" type="xcomp"/>
+            <dependency id="stp_6" t1="stt_4" t2="stt_3" type="det"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_6" type="det"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_7" type="amod"/>
+            <dependency id="stp_9" t1="stt_10" t2="stt_8" type="nn"/>
+            <dependency id="stp_10" t1="stt_10" t2="stt_9" type="nn"/>
+            <dependency id="stp_11" t1="stt_11" t2="stt_20" type="dobj"/>
+            <dependency id="stp_12" t1="stt_11" t2="stt_22" type="prep_by"/>
+            <dependency id="stp_13" t1="stt_13" t2="stt_19" type="conj_and"/>
+            <dependency id="stp_14" t1="stt_13" t2="stt_12" type="num"/>
+            <dependency id="stp_15" t1="stt_13" t2="stt_15" type="prep_of"/>
+            <dependency id="stp_16" t1="stt_15" t2="stt_16" type="num"/>
+            <dependency id="stp_17" t1="stt_20" t2="stt_19" type="nn"/>
+            <dependency id="stp_18" t1="stt_20" t2="stt_13" type="nn"/>
+            <dependency id="stp_19" t1="stt_22" t2="stt_24" type="prep_of"/>
+            <dependency id="stp_20" t1="stt_24" t2="stt_27" type="appos"/>
+            <dependency id="stp_21" t1="stt_27" t2="stt_26" type="amod"/>
+            <dependency id="stp_22" t1="stt_33" t2="stt_32" type="advmod"/>
+            <dependency id="stp_23" t1="stt_33" t2="stt_37" type="dobj"/>
+            <dependency id="stp_24" t1="stt_33" t2="stt_42" type="dobj"/>
+            <dependency id="stp_25" t1="stt_33" t2="stt_29" type="mark"/>
+            <dependency id="stp_26" t1="stt_33" t2="stt_30" type="nsubj"/>
+            <dependency id="stp_27" t1="stt_33" t2="stt_31" type="aux"/>
+            <dependency id="stp_28" t1="stt_37" t2="stt_34" type="poss"/>
+            <dependency id="stp_29" t1="stt_37" t2="stt_36" type="amod"/>
+            <dependency id="stp_30" t1="stt_37" t2="stt_42" type="conj_and"/>
+            <dependency id="stp_31" t1="stt_42" t2="stt_40" type="nn"/>
+            <dependency id="stp_32" t1="stt_42" t2="stt_41" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H did)
+            (NP (DT the) (NN=H randomisation))
+            (PP (IN=H with)
+            (NP (DT an) (JJ interactive) (NN web) (NN response) (NN=H system)))
+            (S
+            (VP=H (VBG=H using)
+            (NP
+            (NP
+            (NP=H
+            (NP=H (CD 600) (NNS=H blocks))
+            (PP (IN=H of)
+            (NP (NN=H length) (CD ten))))
+            (, ,)
+            (CC and)
+            (ADJP (JJ=H stratified)))
+            (NNS=H patients))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H severity))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H disease))
+            (, ,)
+            (NP (JJ global) (NN=H region))))))))
+            (, ,)
+            (SBAR (IN=H whether)
+            (S
+            (NP (PRP=H they))
+            (VP=H (VBD=H were)
+            (ADVP (RB=H concomitantly))
+            (VP (VBG=H using)
+            (NP
+            (NP=H
+            (NP (NN Alzheimer) (POS=H 's))
+            (JJ disease-labelled) (NNS=H medications))
+            (, ,)
+            (CC and)
+            (NP (NN site) (NN PET) (NN=H capability))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1876-2006" id="S12">
+        <text xml:space="preserve">Participants, their study partners (generally carers), and all assessors were masked to treatment assignment throughout the study.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1876-1888" text="Participants" lemma="participant"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1888-1889" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP$" charOffset="1890-1895" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1896-1901" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1902-1910" text="partners" lemma="partner"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="1911-1912" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="1912-1921" text="generally" lemma="generally"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1922-1928" text="carers" lemma="carer"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="1928-1929" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="1929-1930" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1931-1934" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1935-1938" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1939-1948" text="assessors" lemma="assessor"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="1949-1953" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="1954-1960" text="masked" lemma="mask"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="1961-1963" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1964-1973" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1974-1984" text="assignment" lemma="assignment"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1985-1995" text="throughout" lemma="throughout"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1996-1999" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="2000-2005" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="2005-2006" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_5" type="appos"/>
+            <dependency id="stp_2" t1="stt_1" t2="stt_13" type="conj_and"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_3" type="poss"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="nn"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_8" type="dep"/>
+            <dependency id="stp_6" t1="stt_8" t2="stt_7" type="advmod"/>
+            <dependency id="stp_7" t1="stt_13" t2="stt_12" type="det"/>
+            <dependency id="stp_8" t1="stt_15" t2="stt_1" type="nsubjpass"/>
+            <dependency id="stp_9" t1="stt_15" t2="stt_18" type="prep_to"/>
+            <dependency id="stp_10" t1="stt_15" t2="stt_21" type="prep_throughout"/>
+            <dependency id="stp_11" t1="stt_15" t2="stt_13" type="nsubjpass"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_14" type="auxpass"/>
+            <dependency id="stp_13" t1="stt_18" t2="stt_17" type="nn"/>
+            <dependency id="stp_14" t1="stt_21" t2="stt_20" type="det"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NNS=H Participants))
+            (, ,)
+            (NP
+            (NP=H (PRP$ their) (NN study) (NNS=H partners))
+            (-LRB- -LRB-)
+            (NP (RB generally) (NNS=H carers))
+            (-RRB- -RRB-))
+            (, ,))
+            (CC and)
+            (NP (DT all) (NNS=H assessors)))
+            (VP=H (VBD=H were)
+            (VP (VBN=H masked)
+            (PP (TO=H to)
+            (NP (NN treatment) (NN=H assignment)))
+            (PP (IN=H throughout)
+            (NP (DT the) (NN=H study)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="2007-2303" id="S13">
+        <text xml:space="preserve">The coprimary outcomes were progression on the Alzheimer’s Disease Assessment Scale–Cognitive Subscale (ADAS-Cog) and the Alzheimer’s Disease Co-operative Study–Activities of Daily Living Inventory (ADCS-ADL) scales from baseline assessed at week 65 in the modified intention-to-treat population.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="2007-2010" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="2011-2020" text="coprimary" lemma="coprimary"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="2021-2029" text="outcomes" lemma="outcome"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="2030-2034" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="2035-2046" text="progression" lemma="progression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="2047-2049" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="2050-2053" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="2054-2063" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_9" POS="POS" charOffset="2063-2065" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="2066-2073" text="Disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_11" POS="NNP" charOffset="2074-2084" text="Assessment" lemma="Assessment"/>
+            <token xml:space="preserve" id="stt_12" POS="NNP" charOffset="2085-2090" text="Scale" lemma="Scale"/>
+            <token xml:space="preserve" id="stt_13" POS=":" charOffset="2090-2091" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="2091-2100" text="Cognitive" lemma="cognitive"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="2101-2109" text="Subscale" lemma="subscale"/>
+            <token xml:space="preserve" id="stt_16" POS="-LRB-" charOffset="2110-2111" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="2111-2119" text="ADAS-Cog" lemma="adas-cog"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="2119-2120" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="2121-2124" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="2125-2128" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="2129-2138" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_22" POS="POS" charOffset="2138-2140" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="2141-2148" text="Disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="2149-2161" text="Co-operative" lemma="co-operative"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="2162-2167" text="Study" lemma="study"/>
+            <token xml:space="preserve" id="stt_26" POS=":" charOffset="2167-2168" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="2168-2178" text="Activities" lemma="activity"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="2179-2181" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="NNP" charOffset="2182-2187" text="Daily" lemma="Daily"/>
+            <token xml:space="preserve" id="stt_30" POS="VBG" charOffset="2188-2194" text="Living" lemma="live"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="2195-2204" text="Inventory" lemma="inventory"/>
+            <token xml:space="preserve" id="stt_32" POS="-LRB-" charOffset="2205-2206" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="2206-2214" text="ADCS-ADL" lemma="adcs-adl"/>
+            <token xml:space="preserve" id="stt_34" POS="-RRB-" charOffset="2214-2215" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_35" POS="NNS" charOffset="2216-2222" text="scales" lemma="scale"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="2223-2227" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="2228-2236" text="baseline" lemma="baseline"/>
+            <token xml:space="preserve" id="stt_38" POS="VBN" charOffset="2237-2245" text="assessed" lemma="assess"/>
+            <token xml:space="preserve" id="stt_39" POS="IN" charOffset="2246-2248" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="2249-2253" text="week" lemma="week"/>
+            <token xml:space="preserve" id="stt_41" POS="CD" charOffset="2254-2256" text="65" lemma="65"/>
+            <token xml:space="preserve" id="stt_42" POS="IN" charOffset="2257-2259" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_43" POS="DT" charOffset="2260-2263" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_44" POS="VBN" charOffset="2264-2272" text="modified" lemma="modify"/>
+            <token xml:space="preserve" id="stt_45" POS="JJ" charOffset="2273-2291" text="intention-to-treat" lemma="intention-to-treat"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="2292-2302" text="population" lemma="population"/>
+            <token xml:space="preserve" id="stt_47" POS="." charOffset="2302-2303" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="amod"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_3" type="nsubj"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="cop"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_25" type="dep"/>
+            <dependency id="stp_6" t1="stt_5" t2="stt_27" type="dep"/>
+            <dependency id="stp_7" t1="stt_5" t2="stt_12" type="prep_on"/>
+            <dependency id="stp_8" t1="stt_5" t2="stt_30" type="vmod"/>
+            <dependency id="stp_9" t1="stt_5" t2="stt_15" type="dep"/>
+            <dependency id="stp_10" t1="stt_8" t2="stt_7" type="det"/>
+            <dependency id="stp_11" t1="stt_12" t2="stt_8" type="poss"/>
+            <dependency id="stp_12" t1="stt_12" t2="stt_10" type="nn"/>
+            <dependency id="stp_13" t1="stt_12" t2="stt_11" type="nn"/>
+            <dependency id="stp_14" t1="stt_15" t2="stt_17" type="appos"/>
+            <dependency id="stp_15" t1="stt_15" t2="stt_25" type="conj_and"/>
+            <dependency id="stp_16" t1="stt_15" t2="stt_14" type="amod"/>
+            <dependency id="stp_17" t1="stt_21" t2="stt_20" type="det"/>
+            <dependency id="stp_18" t1="stt_25" t2="stt_21" type="poss"/>
+            <dependency id="stp_19" t1="stt_25" t2="stt_23" type="nn"/>
+            <dependency id="stp_20" t1="stt_25" t2="stt_24" type="amod"/>
+            <dependency id="stp_21" t1="stt_27" t2="stt_29" type="prep_of"/>
+            <dependency id="stp_22" t1="stt_30" t2="stt_35" type="xcomp"/>
+            <dependency id="stp_23" t1="stt_31" t2="stt_33" type="appos"/>
+            <dependency id="stp_24" t1="stt_35" t2="stt_37" type="prep_from"/>
+            <dependency id="stp_25" t1="stt_35" t2="stt_31" type="nsubj"/>
+            <dependency id="stp_26" t1="stt_37" t2="stt_38" type="vmod"/>
+            <dependency id="stp_27" t1="stt_38" t2="stt_40" type="prep_at"/>
+            <dependency id="stp_28" t1="stt_40" t2="stt_41" type="num"/>
+            <dependency id="stp_29" t1="stt_40" t2="stt_46" type="prep_in"/>
+            <dependency id="stp_30" t1="stt_46" t2="stt_43" type="det"/>
+            <dependency id="stp_31" t1="stt_46" t2="stt_44" type="amod"/>
+            <dependency id="stp_32" t1="stt_46" t2="stt_45" type="amod"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (JJ coprimary) (NNS=H outcomes))
+            (VP=H (VBD=H were)
+            (NP
+            (NP=H
+            (NP=H
+            (NP=H (NN=H progression))
+            (PP (IN=H on)
+            (NP
+            (NP (DT the) (NN Alzheimer) (POS=H 's))
+            (NN Disease) (NNP Assessment) (NNP=H Scale))))
+            (: --)
+            (NP
+            (NP=H
+            (NP=H (JJ Cognitive) (NN=H Subscale))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ADAS-Cog))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP
+            (NP (DT the) (NN Alzheimer) (POS=H 's))
+            (NN Disease) (JJ Co-operative) (NN=H Study)))
+            (: --)
+            (NP
+            (NP=H (NNS=H Activities))
+            (PP (IN=H of)
+            (NP (NNP=H Daily)))))
+            (VP (VBG=H Living)
+            (S
+            (NP=H
+            (NP=H (NN=H Inventory))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ADCS-ADL))
+            (-RRB- -RRB-)))
+            (NP
+            (NP=H (NNS=H scales))
+            (PP (IN=H from)
+            (NP
+            (NP=H (NN=H baseline))
+            (VP (VBN=H assessed)
+            (PP (IN=H at)
+            (NP
+            (NP=H (NN=H week) (CD 65))
+            (PP (IN=H in)
+            (NP (DT the) (VBN modified) (JJ intention-to-treat) (NN=H population)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="2304-2432" id="S14">
+        <text xml:space="preserve">This trial is registered with Clinicaltrials.gov (NCT01689246) and the European Union Clinical Trials Registry (2012-002866-11).</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="2304-2308" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="2309-2314" text="trial" lemma="trial"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="2315-2317" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="2318-2328" text="registered" lemma="register"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="2329-2333" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="2334-2352" text="Clinicaltrials.gov" lemma="clinicaltrials.gov"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="2353-2354" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="2354-2365" text="NCT01689246" lemma="nct01689246"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="2365-2366" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="2367-2370" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="2371-2374" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NNP" charOffset="2375-2383" text="European" lemma="European"/>
+            <token xml:space="preserve" id="stt_13" POS="NNP" charOffset="2384-2389" text="Union" lemma="Union"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="2390-2398" text="Clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="2399-2405" text="Trials" lemma="trial"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="2406-2414" text="Registry" lemma="registry"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="2415-2416" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="2416-2430" text="2012-002866-11" lemma="2012-002866-11"/>
+            <token xml:space="preserve" id="stt_19" POS="-RRB-" charOffset="2430-2431" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="2431-2432" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_16" type="prep_with"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_2" type="nsubjpass"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_3" type="auxpass"/>
+            <dependency id="stp_5" t1="stt_4" t2="stt_6" type="prep_with"/>
+            <dependency id="stp_6" t1="stt_6" t2="stt_16" type="conj_and"/>
+            <dependency id="stp_7" t1="stt_6" t2="stt_18" type="appos"/>
+            <dependency id="stp_8" t1="stt_6" t2="stt_8" type="appos"/>
+            <dependency id="stp_9" t1="stt_16" t2="stt_11" type="det"/>
+            <dependency id="stp_10" t1="stt_16" t2="stt_12" type="nn"/>
+            <dependency id="stp_11" t1="stt_16" t2="stt_13" type="nn"/>
+            <dependency id="stp_12" t1="stt_16" t2="stt_14" type="amod"/>
+            <dependency id="stp_13" t1="stt_16" t2="stt_15" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H trial))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H registered)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H Clinicaltrials.gov))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NCT01689246))
+            (-RRB- -RRB-))
+            (CC and)
+            (NP (DT the) (NNP European) (NNP Union) (JJ Clinical) (NNS Trials) (NN=H Registry))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD=H 2012-002866-11))
+            (-RRB- -RRB-))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="2461-2469" id="S15">
+        <text xml:space="preserve">Findings</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="2461-2469" text="Findings" lemma="finding"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NNS=H Findings)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="2480-2670" id="S16">
+        <text xml:space="preserve">Between Jan 29, 2013, and June 26, 2014, we recruited and randomly assigned 891 participants to treatment (357 to control, 268 to 75 mg LMTM twice a day, and 266 to 125 mg LMTM twice a day).</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="2480-2487" text="Between" lemma="between"/>
+            <token xml:space="preserve" id="stt_2" POS="NNP" charOffset="2488-2491" text="Jan" lemma="Jan"/>
+            <token xml:space="preserve" id="stt_3" POS="CD" charOffset="2492-2494" text="29" lemma="29"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="2494-2495" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="2496-2500" text="2013" lemma="2013"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="2500-2501" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="2502-2505" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NNP" charOffset="2506-2510" text="June" lemma="June"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="2511-2513" text="26" lemma="26"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="2513-2514" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="CD" charOffset="2515-2519" text="2014" lemma="2014"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="2519-2520" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="PRP" charOffset="2521-2523" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="2524-2533" text="recruited" lemma="recruit"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="2534-2537" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="2538-2546" text="randomly" lemma="randomly"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="2547-2555" text="assigned" lemma="assign"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="2556-2559" text="891" lemma="891"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="2560-2572" text="participants" lemma="participant"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="2573-2575" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="2576-2585" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_22" POS="-LRB-" charOffset="2586-2587" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_23" POS="CD" charOffset="2587-2590" text="357" lemma="357"/>
+            <token xml:space="preserve" id="stt_24" POS="TO" charOffset="2591-2593" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_25" POS="VB" charOffset="2594-2601" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="2601-2602" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="CD" charOffset="2603-2606" text="268" lemma="268"/>
+            <token xml:space="preserve" id="stt_28" POS="TO" charOffset="2607-2609" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_29" POS="CD" charOffset="2610-2612" text="75" lemma="75"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="2613-2615" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="2616-2620" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="2621-2626" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_33" POS="DT" charOffset="2627-2628" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="2629-2632" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_35" POS="," charOffset="2632-2633" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_36" POS="CC" charOffset="2634-2637" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_37" POS="CD" charOffset="2638-2641" text="266" lemma="266"/>
+            <token xml:space="preserve" id="stt_38" POS="TO" charOffset="2642-2644" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_39" POS="CD" charOffset="2645-2648" text="125" lemma="125"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="2649-2651" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="2652-2656" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_42" POS="RB" charOffset="2657-2662" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_43" POS="DT" charOffset="2663-2664" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="2665-2668" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_45" POS="-RRB-" charOffset="2668-2669" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_46" POS="." charOffset="2669-2670" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_3" type="num"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_5" type="num"/>
+            <dependency id="stp_3" t1="stt_2" t2="stt_8" type="conj_and"/>
+            <dependency id="stp_4" t1="stt_8" t2="stt_9" type="num"/>
+            <dependency id="stp_5" t1="stt_8" t2="stt_11" type="num"/>
+            <dependency id="stp_6" t1="stt_14" t2="stt_16" type="advmod"/>
+            <dependency id="stp_7" t1="stt_14" t2="stt_17" type="conj_and"/>
+            <dependency id="stp_8" t1="stt_14" t2="stt_2" type="prep_between"/>
+            <dependency id="stp_9" t1="stt_14" t2="stt_8" type="prep_between"/>
+            <dependency id="stp_10" t1="stt_14" t2="stt_13" type="nsubj"/>
+            <dependency id="stp_11" t1="stt_17" t2="stt_19" type="dobj"/>
+            <dependency id="stp_12" t1="stt_17" t2="stt_21" type="prep_to"/>
+            <dependency id="stp_13" t1="stt_17" t2="stt_13" type="nsubj"/>
+            <dependency id="stp_14" t1="stt_19" t2="stt_18" type="num"/>
+            <dependency id="stp_15" t1="stt_21" t2="stt_23" type="dep"/>
+            <dependency id="stp_16" t1="stt_23" t2="stt_25" type="vmod"/>
+            <dependency id="stp_17" t1="stt_25" t2="stt_24" type="aux"/>
+            <dependency id="stp_18" t1="stt_25" t2="stt_41" type="dobj"/>
+            <dependency id="stp_19" t1="stt_25" t2="stt_31" type="dobj"/>
+            <dependency id="stp_20" t1="stt_29" t2="stt_27" type="number"/>
+            <dependency id="stp_21" t1="stt_29" t2="stt_28" type="dep"/>
+            <dependency id="stp_22" t1="stt_31" t2="stt_34" type="tmod"/>
+            <dependency id="stp_23" t1="stt_31" t2="stt_41" type="conj_and"/>
+            <dependency id="stp_24" t1="stt_31" t2="stt_29" type="num"/>
+            <dependency id="stp_25" t1="stt_31" t2="stt_30" type="nn"/>
+            <dependency id="stp_26" t1="stt_34" t2="stt_32" type="advmod"/>
+            <dependency id="stp_27" t1="stt_34" t2="stt_33" type="det"/>
+            <dependency id="stp_28" t1="stt_39" t2="stt_37" type="number"/>
+            <dependency id="stp_29" t1="stt_39" t2="stt_38" type="dep"/>
+            <dependency id="stp_30" t1="stt_41" t2="stt_39" type="num"/>
+            <dependency id="stp_31" t1="stt_41" t2="stt_40" type="nn"/>
+            <dependency id="stp_32" t1="stt_41" t2="stt_44" type="tmod"/>
+            <dependency id="stp_33" t1="stt_44" t2="stt_42" type="advmod"/>
+            <dependency id="stp_34" t1="stt_44" t2="stt_43" type="det"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H Between)
+            (NP
+            (NP=H (NNP=H Jan) (CD 29) (, ,) (CD 2013) (, ,))
+            (CC and)
+            (NP (NNP=H June) (CD 26) (, ,) (CD 2014))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H
+            (VP=H (VBD=H recruited))
+            (CC and)
+            (ADVP (RB=H randomly))
+            (VP (VBN=H assigned)
+            (NP (CD 891) (NNS=H participants))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H treatment))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (CD=H 357))
+            (S
+            (VP=H (TO=H to)
+            (VP
+            (VP=H (VB=H control))
+            (, ,)
+            (NP
+            (NP=H
+            (NP=H
+            (QP (CD=H 268) (TO to) (CD 75))
+            (NN mg) (NN=H LMTM))
+            (NP-TMP (RB twice) (DT a) (NN=H day)))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H
+            (QP (CD=H 266) (TO to) (CD 125))
+            (NN mg) (NN=H LMTM))
+            (NP-TMP (RB twice) (DT a) (NN=H day))))))))
+            (-RRB- -RRB-))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="2671-3195" id="S17">
+        <text xml:space="preserve">The prespecified primary analyses did not show any treatment benefit at either of the doses tested for the coprimary outcomes (change in ADAS-Cog score compared with control [n=354, 6·32, 95% CI 5·31–7·34]: 75 mg LMTM twice a day [n=257] –0·02, –1·60 to 1·56, p=0·9834, 125 mg LMTM twice a day [n=250] –0·43, –2·06 to 1·20, p=0·9323; change in ADCS-ADL score compared with control [–8·22, 95% CI –9·63 to –6·82]: 75 mg LMTM twice a day –0·93, –3·12 to 1·26, p=0·8659; 125 mg LMTM twice a day –0·34, –2·61 to 1·93, p=0·9479).</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="2671-2674" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="2675-2687" text="prespecified" lemma="prespecified"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="2688-2695" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="2696-2704" text="analyses" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="2705-2708" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="2709-2712" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="2713-2717" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="2718-2721" text="any" lemma="any"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="2722-2731" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="2732-2739" text="benefit" lemma="benefit"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="2740-2742" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="2743-2749" text="either" lemma="either"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="2750-2752" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="2753-2756" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="2757-2762" text="doses" lemma="dose"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="2763-2769" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="2770-2773" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="2774-2777" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="2778-2787" text="coprimary" lemma="coprimary"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="2788-2796" text="outcomes" lemma="outcome"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="2797-2798" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="2798-2804" text="change" lemma="change"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="2805-2807" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="2808-2816" text="ADAS-Cog" lemma="adas-cog"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="2817-2822" text="score" lemma="score"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="2823-2831" text="compared" lemma="compare"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="2832-2836" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="2837-2844" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_29" POS="-LRB-" charOffset="2845-2846" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="2846-2847" text="n" lemma="n"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="2847-2848" text="=" lemma="="/>
+            <token xml:space="preserve" id="stt_32" POS="CD" charOffset="2848-2851" text="354" lemma="354"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="2851-2852" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="CD" charOffset="2853-2854" text="6" lemma="6"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="2854-2855" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_36" POS="CD" charOffset="2855-2857" text="32" lemma="32"/>
+            <token xml:space="preserve" id="stt_37" POS="," charOffset="2857-2858" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_38" POS="CD" charOffset="2859-2861" text="95" lemma="95"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="2861-2862" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="2863-2865" text="CI" lemma="ci"/>
+            <token xml:space="preserve" id="stt_41" POS="CD" charOffset="2866-2867" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="2867-2868" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_43" POS="CD" charOffset="2868-2870" text="31" lemma="31"/>
+            <token xml:space="preserve" id="stt_44" POS=":" charOffset="2870-2871" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_45" POS="CD" charOffset="2871-2872" text="7" lemma="7"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="2872-2873" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_47" POS="CD" charOffset="2873-2875" text="34" lemma="34"/>
+            <token xml:space="preserve" id="stt_48" POS="-RRB-" charOffset="2875-2876" text="]" lemma="]"/>
+            <token xml:space="preserve" id="stt_49" POS=":" charOffset="2876-2877" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_50" POS="CD" charOffset="2878-2880" text="75" lemma="75"/>
+            <token xml:space="preserve" id="stt_51" POS="NN" charOffset="2881-2883" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_52" POS="NN" charOffset="2884-2888" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_53" POS="RB" charOffset="2889-2894" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_54" POS="DT" charOffset="2895-2896" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_55" POS="NN" charOffset="2897-2900" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_56" POS="-LRB-" charOffset="2901-2902" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_57" POS="NN" charOffset="2902-2903" text="n" lemma="n"/>
+            <token xml:space="preserve" id="stt_58" POS="JJ" charOffset="2903-2904" text="=" lemma="="/>
+            <token xml:space="preserve" id="stt_59" POS="CD" charOffset="2904-2907" text="257" lemma="257"/>
+            <token xml:space="preserve" id="stt_60" POS="-RRB-" charOffset="2907-2908" text="]" lemma="]"/>
+            <token xml:space="preserve" id="stt_61" POS=":" charOffset="2909-2910" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_62" POS="CD" charOffset="2910-2911" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_63" POS="CD" charOffset="2911-2912" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_64" POS="NN" charOffset="2912-2914" text="02" lemma="02"/>
+            <token xml:space="preserve" id="stt_65" POS="," charOffset="2914-2915" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_66" POS=":" charOffset="2916-2917" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_67" POS="CD" charOffset="2917-2918" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_68" POS="CD" charOffset="2918-2919" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_69" POS="CD" charOffset="2919-2921" text="60" lemma="60"/>
+            <token xml:space="preserve" id="stt_70" POS="TO" charOffset="2922-2924" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_71" POS="CD" charOffset="2925-2926" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_72" POS="CD" charOffset="2926-2927" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_73" POS="CD" charOffset="2927-2929" text="56" lemma="56"/>
+            <token xml:space="preserve" id="stt_74" POS="," charOffset="2929-2930" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_75" POS="NN" charOffset="2931-2932" text="p" lemma="p"/>
+            <token xml:space="preserve" id="stt_76" POS="JJ" charOffset="2932-2933" text="=" lemma="="/>
+            <token xml:space="preserve" id="stt_77" POS="CD" charOffset="2933-2934" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_78" POS="CD" charOffset="2934-2935" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_79" POS="CD" charOffset="2935-2939" text="9834" lemma="9834"/>
+            <token xml:space="preserve" id="stt_80" POS="," charOffset="2939-2940" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_81" POS="CD" charOffset="2941-2944" text="125" lemma="125"/>
+            <token xml:space="preserve" id="stt_82" POS="NN" charOffset="2945-2947" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_83" POS="NN" charOffset="2948-2952" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_84" POS="RB" charOffset="2953-2958" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_85" POS="DT" charOffset="2959-2960" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_86" POS="NN" charOffset="2961-2964" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_87" POS="-LRB-" charOffset="2965-2966" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_88" POS="NN" charOffset="2966-2967" text="n" lemma="n"/>
+            <token xml:space="preserve" id="stt_89" POS="JJ" charOffset="2967-2968" text="=" lemma="="/>
+            <token xml:space="preserve" id="stt_90" POS="CD" charOffset="2968-2971" text="250" lemma="250"/>
+            <token xml:space="preserve" id="stt_91" POS="-RRB-" charOffset="2971-2972" text="]" lemma="]"/>
+            <token xml:space="preserve" id="stt_92" POS=":" charOffset="2973-2974" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_93" POS="CD" charOffset="2974-2975" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_94" POS="CD" charOffset="2975-2976" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_95" POS="CD" charOffset="2976-2978" text="43" lemma="43"/>
+            <token xml:space="preserve" id="stt_96" POS="," charOffset="2978-2979" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_97" POS=":" charOffset="2980-2981" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_98" POS="CD" charOffset="2981-2982" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_99" POS="CD" charOffset="2982-2983" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_100" POS="CD" charOffset="2983-2985" text="06" lemma="06"/>
+            <token xml:space="preserve" id="stt_101" POS="TO" charOffset="2986-2988" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_102" POS="CD" charOffset="2989-2990" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_103" POS="CD" charOffset="2990-2991" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_104" POS="CD" charOffset="2991-2993" text="20" lemma="20"/>
+            <token xml:space="preserve" id="stt_105" POS="," charOffset="2993-2994" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_106" POS="NN" charOffset="2995-2996" text="p" lemma="p"/>
+            <token xml:space="preserve" id="stt_107" POS="JJ" charOffset="2996-2997" text="=" lemma="="/>
+            <token xml:space="preserve" id="stt_108" POS="CD" charOffset="2997-2998" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_109" POS="CD" charOffset="2998-2999" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_110" POS="CD" charOffset="2999-3003" text="9323" lemma="9323"/>
+            <token xml:space="preserve" id="stt_111" POS=":" charOffset="3003-3004" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_112" POS="NN" charOffset="3005-3011" text="change" lemma="change"/>
+            <token xml:space="preserve" id="stt_113" POS="IN" charOffset="3012-3014" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_114" POS="NN" charOffset="3015-3023" text="ADCS-ADL" lemma="adcs-adl"/>
+            <token xml:space="preserve" id="stt_115" POS="NN" charOffset="3024-3029" text="score" lemma="score"/>
+            <token xml:space="preserve" id="stt_116" POS="VBN" charOffset="3030-3038" text="compared" lemma="compare"/>
+            <token xml:space="preserve" id="stt_117" POS="IN" charOffset="3039-3043" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_118" POS="NN" charOffset="3044-3051" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_119" POS="-LRB-" charOffset="3052-3053" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_120" POS=":" charOffset="3053-3054" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_121" POS="CD" charOffset="3054-3055" text="8" lemma="8"/>
+            <token xml:space="preserve" id="stt_122" POS="NN" charOffset="3055-3056" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_123" POS="CD" charOffset="3056-3058" text="22" lemma="22"/>
+            <token xml:space="preserve" id="stt_124" POS="," charOffset="3058-3059" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_125" POS="CD" charOffset="3060-3062" text="95" lemma="95"/>
+            <token xml:space="preserve" id="stt_126" POS="NN" charOffset="3062-3063" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_127" POS="NN" charOffset="3064-3066" text="CI" lemma="ci"/>
+            <token xml:space="preserve" id="stt_128" POS=":" charOffset="3067-3068" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_129" POS="CD" charOffset="3068-3069" text="9" lemma="9"/>
+            <token xml:space="preserve" id="stt_130" POS="NN" charOffset="3069-3070" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_131" POS="CD" charOffset="3070-3072" text="63" lemma="63"/>
+            <token xml:space="preserve" id="stt_132" POS="TO" charOffset="3073-3075" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_133" POS=":" charOffset="3076-3077" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_134" POS="CD" charOffset="3077-3078" text="6" lemma="6"/>
+            <token xml:space="preserve" id="stt_135" POS="NN" charOffset="3078-3079" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_136" POS="CD" charOffset="3079-3081" text="82" lemma="82"/>
+            <token xml:space="preserve" id="stt_137" POS="-RRB-" charOffset="3081-3082" text="]" lemma="]"/>
+            <token xml:space="preserve" id="stt_138" POS=":" charOffset="3082-3083" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_139" POS="CD" charOffset="3084-3086" text="75" lemma="75"/>
+            <token xml:space="preserve" id="stt_140" POS="NN" charOffset="3087-3089" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_141" POS="NN" charOffset="3090-3094" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_142" POS="RB" charOffset="3095-3100" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_143" POS="DT" charOffset="3101-3102" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_144" POS="NN" charOffset="3103-3106" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_145" POS=":" charOffset="3107-3108" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_146" POS="CD" charOffset="3108-3109" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_147" POS="CD" charOffset="3109-3110" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_148" POS="CD" charOffset="3110-3112" text="93" lemma="93"/>
+            <token xml:space="preserve" id="stt_149" POS="," charOffset="3112-3113" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_150" POS=":" charOffset="3114-3115" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_151" POS="CD" charOffset="3115-3116" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_152" POS="NN" charOffset="3116-3117" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_153" POS="CD" charOffset="3117-3119" text="12" lemma="12"/>
+            <token xml:space="preserve" id="stt_154" POS="TO" charOffset="3120-3122" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_155" POS="CD" charOffset="3123-3124" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_156" POS="CD" charOffset="3124-3125" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_157" POS="CD" charOffset="3125-3127" text="26" lemma="26"/>
+            <token xml:space="preserve" id="stt_158" POS="," charOffset="3127-3128" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_159" POS="NN" charOffset="3129-3130" text="p" lemma="p"/>
+            <token xml:space="preserve" id="stt_160" POS="JJ" charOffset="3130-3131" text="=" lemma="="/>
+            <token xml:space="preserve" id="stt_161" POS="CD" charOffset="3131-3132" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_162" POS="CD" charOffset="3132-3133" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_163" POS="CD" charOffset="3133-3137" text="8659" lemma="8659"/>
+            <token xml:space="preserve" id="stt_164" POS=":" charOffset="3137-3138" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_165" POS="CD" charOffset="3139-3142" text="125" lemma="125"/>
+            <token xml:space="preserve" id="stt_166" POS="NN" charOffset="3143-3145" text="mg" lemma="mg"/>
+            <token xml:space="preserve" id="stt_167" POS="NN" charOffset="3146-3150" text="LMTM" lemma="lmtm"/>
+            <token xml:space="preserve" id="stt_168" POS="RB" charOffset="3151-3156" text="twice" lemma="twice"/>
+            <token xml:space="preserve" id="stt_169" POS="DT" charOffset="3157-3158" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_170" POS="NN" charOffset="3159-3162" text="day" lemma="day"/>
+            <token xml:space="preserve" id="stt_171" POS=":" charOffset="3163-3164" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_172" POS="CD" charOffset="3164-3165" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_173" POS="CD" charOffset="3165-3166" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_174" POS="CD" charOffset="3166-3168" text="34" lemma="34"/>
+            <token xml:space="preserve" id="stt_175" POS="," charOffset="3168-3169" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_176" POS=":" charOffset="3170-3171" text="–" lemma="--"/>
+            <token xml:space="preserve" id="stt_177" POS="CD" charOffset="3171-3172" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_178" POS="CD" charOffset="3172-3173" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_179" POS="CD" charOffset="3173-3175" text="61" lemma="61"/>
+            <token xml:space="preserve" id="stt_180" POS="TO" charOffset="3176-3178" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_181" POS="CD" charOffset="3179-3180" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_182" POS="CD" charOffset="3180-3181" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_183" POS="CD" charOffset="3181-3183" text="93" lemma="93"/>
+            <token xml:space="preserve" id="stt_184" POS="," charOffset="3183-3184" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_185" POS="NN" charOffset="3185-3186" text="p" lemma="p"/>
+            <token xml:space="preserve" id="stt_186" POS="JJ" charOffset="3186-3187" text="=" lemma="="/>
+            <token xml:space="preserve" id="stt_187" POS="CD" charOffset="3187-3188" text="0" lemma="0"/>
+            <token xml:space="preserve" id="stt_188" POS="CD" charOffset="3188-3189" text="·" lemma="·"/>
+            <token xml:space="preserve" id="stt_189" POS="CD" charOffset="3189-3193" text="9479" lemma="9479"/>
+            <token xml:space="preserve" id="stt_190" POS="-RRB-" charOffset="3193-3194" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_191" POS="." charOffset="3194-3195" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_191" t2="stt_1" type="dep"/>
+            <dependency id="stp_2" t1="stt_191" t2="stt_2" type="dep"/>
+            <dependency id="stp_3" t1="stt_191" t2="stt_3" type="dep"/>
+            <dependency id="stp_4" t1="stt_191" t2="stt_4" type="dep"/>
+            <dependency id="stp_5" t1="stt_191" t2="stt_5" type="dep"/>
+            <dependency id="stp_6" t1="stt_191" t2="stt_6" type="dep"/>
+            <dependency id="stp_7" t1="stt_191" t2="stt_7" type="dep"/>
+            <dependency id="stp_8" t1="stt_191" t2="stt_8" type="dep"/>
+            <dependency id="stp_9" t1="stt_191" t2="stt_9" type="dep"/>
+            <dependency id="stp_10" t1="stt_191" t2="stt_10" type="dep"/>
+            <dependency id="stp_11" t1="stt_191" t2="stt_11" type="dep"/>
+            <dependency id="stp_12" t1="stt_191" t2="stt_12" type="dep"/>
+            <dependency id="stp_13" t1="stt_191" t2="stt_13" type="dep"/>
+            <dependency id="stp_14" t1="stt_191" t2="stt_14" type="dep"/>
+            <dependency id="stp_15" t1="stt_191" t2="stt_15" type="dep"/>
+            <dependency id="stp_16" t1="stt_191" t2="stt_16" type="dep"/>
+            <dependency id="stp_17" t1="stt_191" t2="stt_17" type="dep"/>
+            <dependency id="stp_18" t1="stt_191" t2="stt_18" type="dep"/>
+            <dependency id="stp_19" t1="stt_191" t2="stt_19" type="dep"/>
+            <dependency id="stp_20" t1="stt_191" t2="stt_20" type="dep"/>
+            <dependency id="stp_21" t1="stt_191" t2="stt_22" type="dep"/>
+            <dependency id="stp_22" t1="stt_191" t2="stt_23" type="dep"/>
+            <dependency id="stp_23" t1="stt_191" t2="stt_24" type="dep"/>
+            <dependency id="stp_24" t1="stt_191" t2="stt_25" type="dep"/>
+            <dependency id="stp_25" t1="stt_191" t2="stt_26" type="dep"/>
+            <dependency id="stp_26" t1="stt_191" t2="stt_27" type="dep"/>
+            <dependency id="stp_27" t1="stt_191" t2="stt_28" type="dep"/>
+            <dependency id="stp_28" t1="stt_191" t2="stt_29" type="dep"/>
+            <dependency id="stp_29" t1="stt_191" t2="stt_30" type="dep"/>
+            <dependency id="stp_30" t1="stt_191" t2="stt_31" type="dep"/>
+            <dependency id="stp_31" t1="stt_191" t2="stt_32" type="dep"/>
+            <dependency id="stp_32" t1="stt_191" t2="stt_34" type="dep"/>
+            <dependency id="stp_33" t1="stt_191" t2="stt_35" type="dep"/>
+            <dependency id="stp_34" t1="stt_191" t2="stt_36" type="dep"/>
+            <dependency id="stp_35" t1="stt_191" t2="stt_38" type="dep"/>
+            <dependency id="stp_36" t1="stt_191" t2="stt_39" type="dep"/>
+            <dependency id="stp_37" t1="stt_191" t2="stt_40" type="dep"/>
+            <dependency id="stp_38" t1="stt_191" t2="stt_41" type="dep"/>
+            <dependency id="stp_39" t1="stt_191" t2="stt_42" type="dep"/>
+            <dependency id="stp_40" t1="stt_191" t2="stt_43" type="dep"/>
+            <dependency id="stp_41" t1="stt_191" t2="stt_45" type="dep"/>
+            <dependency id="stp_42" t1="stt_191" t2="stt_46" type="dep"/>
+            <dependency id="stp_43" t1="stt_191" t2="stt_47" type="dep"/>
+            <dependency id="stp_44" t1="stt_191" t2="stt_48" type="dep"/>
+            <dependency id="stp_45" t1="stt_191" t2="stt_50" type="dep"/>
+            <dependency id="stp_46" t1="stt_191" t2="stt_51" type="dep"/>
+            <dependency id="stp_47" t1="stt_191" t2="stt_52" type="dep"/>
+            <dependency id="stp_48" t1="stt_191" t2="stt_53" type="dep"/>
+            <dependency id="stp_49" t1="stt_191" t2="stt_54" type="dep"/>
+            <dependency id="stp_50" t1="stt_191" t2="stt_55" type="dep"/>
+            <dependency id="stp_51" t1="stt_191" t2="stt_56" type="dep"/>
+            <dependency id="stp_52" t1="stt_191" t2="stt_57" type="dep"/>
+            <dependency id="stp_53" t1="stt_191" t2="stt_58" type="dep"/>
+            <dependency id="stp_54" t1="stt_191" t2="stt_59" type="dep"/>
+            <dependency id="stp_55" t1="stt_191" t2="stt_60" type="dep"/>
+            <dependency id="stp_56" t1="stt_191" t2="stt_62" type="dep"/>
+            <dependency id="stp_57" t1="stt_191" t2="stt_63" type="dep"/>
+            <dependency id="stp_58" t1="stt_191" t2="stt_64" type="dep"/>
+            <dependency id="stp_59" t1="stt_191" t2="stt_67" type="dep"/>
+            <dependency id="stp_60" t1="stt_191" t2="stt_68" type="dep"/>
+            <dependency id="stp_61" t1="stt_191" t2="stt_69" type="dep"/>
+            <dependency id="stp_62" t1="stt_191" t2="stt_70" type="dep"/>
+            <dependency id="stp_63" t1="stt_191" t2="stt_71" type="dep"/>
+            <dependency id="stp_64" t1="stt_191" t2="stt_72" type="dep"/>
+            <dependency id="stp_65" t1="stt_191" t2="stt_73" type="dep"/>
+            <dependency id="stp_66" t1="stt_191" t2="stt_75" type="dep"/>
+            <dependency id="stp_67" t1="stt_191" t2="stt_76" type="dep"/>
+            <dependency id="stp_68" t1="stt_191" t2="stt_77" type="dep"/>
+            <dependency id="stp_69" t1="stt_191" t2="stt_78" type="dep"/>
+            <dependency id="stp_70" t1="stt_191" t2="stt_79" type="dep"/>
+            <dependency id="stp_71" t1="stt_191" t2="stt_81" type="dep"/>
+            <dependency id="stp_72" t1="stt_191" t2="stt_82" type="dep"/>
+            <dependency id="stp_73" t1="stt_191" t2="stt_83" type="dep"/>
+            <dependency id="stp_74" t1="stt_191" t2="stt_84" type="dep"/>
+            <dependency id="stp_75" t1="stt_191" t2="stt_85" type="dep"/>
+            <dependency id="stp_76" t1="stt_191" t2="stt_86" type="dep"/>
+            <dependency id="stp_77" t1="stt_191" t2="stt_87" type="dep"/>
+            <dependency id="stp_78" t1="stt_191" t2="stt_88" type="dep"/>
+            <dependency id="stp_79" t1="stt_191" t2="stt_89" type="dep"/>
+            <dependency id="stp_80" t1="stt_191" t2="stt_90" type="dep"/>
+            <dependency id="stp_81" t1="stt_191" t2="stt_91" type="dep"/>
+            <dependency id="stp_82" t1="stt_191" t2="stt_93" type="dep"/>
+            <dependency id="stp_83" t1="stt_191" t2="stt_94" type="dep"/>
+            <dependency id="stp_84" t1="stt_191" t2="stt_95" type="dep"/>
+            <dependency id="stp_85" t1="stt_191" t2="stt_98" type="dep"/>
+            <dependency id="stp_86" t1="stt_191" t2="stt_99" type="dep"/>
+            <dependency id="stp_87" t1="stt_191" t2="stt_100" type="dep"/>
+            <dependency id="stp_88" t1="stt_191" t2="stt_101" type="dep"/>
+            <dependency id="stp_89" t1="stt_191" t2="stt_102" type="dep"/>
+            <dependency id="stp_90" t1="stt_191" t2="stt_103" type="dep"/>
+            <dependency id="stp_91" t1="stt_191" t2="stt_104" type="dep"/>
+            <dependency id="stp_92" t1="stt_191" t2="stt_106" type="dep"/>
+            <dependency id="stp_93" t1="stt_191" t2="stt_107" type="dep"/>
+            <dependency id="stp_94" t1="stt_191" t2="stt_108" type="dep"/>
+            <dependency id="stp_95" t1="stt_191" t2="stt_109" type="dep"/>
+            <dependency id="stp_96" t1="stt_191" t2="stt_110" type="dep"/>
+            <dependency id="stp_97" t1="stt_191" t2="stt_112" type="dep"/>
+            <dependency id="stp_98" t1="stt_191" t2="stt_113" type="dep"/>
+            <dependency id="stp_99" t1="stt_191" t2="stt_114" type="dep"/>
+            <dependency id="stp_100" t1="stt_191" t2="stt_115" type="dep"/>
+            <dependency id="stp_101" t1="stt_191" t2="stt_116" type="dep"/>
+            <dependency id="stp_102" t1="stt_191" t2="stt_117" type="dep"/>
+            <dependency id="stp_103" t1="stt_191" t2="stt_118" type="dep"/>
+            <dependency id="stp_104" t1="stt_191" t2="stt_119" type="dep"/>
+            <dependency id="stp_105" t1="stt_191" t2="stt_121" type="dep"/>
+            <dependency id="stp_106" t1="stt_191" t2="stt_122" type="dep"/>
+            <dependency id="stp_107" t1="stt_191" t2="stt_123" type="dep"/>
+            <dependency id="stp_108" t1="stt_191" t2="stt_125" type="dep"/>
+            <dependency id="stp_109" t1="stt_191" t2="stt_126" type="dep"/>
+            <dependency id="stp_110" t1="stt_191" t2="stt_127" type="dep"/>
+            <dependency id="stp_111" t1="stt_191" t2="stt_129" type="dep"/>
+            <dependency id="stp_112" t1="stt_191" t2="stt_130" type="dep"/>
+            <dependency id="stp_113" t1="stt_191" t2="stt_131" type="dep"/>
+            <dependency id="stp_114" t1="stt_191" t2="stt_132" type="dep"/>
+            <dependency id="stp_115" t1="stt_191" t2="stt_134" type="dep"/>
+            <dependency id="stp_116" t1="stt_191" t2="stt_135" type="dep"/>
+            <dependency id="stp_117" t1="stt_191" t2="stt_136" type="dep"/>
+            <dependency id="stp_118" t1="stt_191" t2="stt_137" type="dep"/>
+            <dependency id="stp_119" t1="stt_191" t2="stt_139" type="dep"/>
+            <dependency id="stp_120" t1="stt_191" t2="stt_140" type="dep"/>
+            <dependency id="stp_121" t1="stt_191" t2="stt_141" type="dep"/>
+            <dependency id="stp_122" t1="stt_191" t2="stt_142" type="dep"/>
+            <dependency id="stp_123" t1="stt_191" t2="stt_143" type="dep"/>
+            <dependency id="stp_124" t1="stt_191" t2="stt_144" type="dep"/>
+            <dependency id="stp_125" t1="stt_191" t2="stt_146" type="dep"/>
+            <dependency id="stp_126" t1="stt_191" t2="stt_147" type="dep"/>
+            <dependency id="stp_127" t1="stt_191" t2="stt_148" type="dep"/>
+            <dependency id="stp_128" t1="stt_191" t2="stt_151" type="dep"/>
+            <dependency id="stp_129" t1="stt_191" t2="stt_152" type="dep"/>
+            <dependency id="stp_130" t1="stt_191" t2="stt_153" type="dep"/>
+            <dependency id="stp_131" t1="stt_191" t2="stt_154" type="dep"/>
+            <dependency id="stp_132" t1="stt_191" t2="stt_155" type="dep"/>
+            <dependency id="stp_133" t1="stt_191" t2="stt_156" type="dep"/>
+            <dependency id="stp_134" t1="stt_191" t2="stt_157" type="dep"/>
+            <dependency id="stp_135" t1="stt_191" t2="stt_159" type="dep"/>
+            <dependency id="stp_136" t1="stt_191" t2="stt_160" type="dep"/>
+            <dependency id="stp_137" t1="stt_191" t2="stt_161" type="dep"/>
+            <dependency id="stp_138" t1="stt_191" t2="stt_162" type="dep"/>
+            <dependency id="stp_139" t1="stt_191" t2="stt_163" type="dep"/>
+            <dependency id="stp_140" t1="stt_191" t2="stt_165" type="dep"/>
+            <dependency id="stp_141" t1="stt_191" t2="stt_166" type="dep"/>
+            <dependency id="stp_142" t1="stt_191" t2="stt_167" type="dep"/>
+            <dependency id="stp_143" t1="stt_191" t2="stt_168" type="dep"/>
+            <dependency id="stp_144" t1="stt_191" t2="stt_169" type="dep"/>
+            <dependency id="stp_145" t1="stt_191" t2="stt_170" type="dep"/>
+            <dependency id="stp_146" t1="stt_191" t2="stt_172" type="dep"/>
+            <dependency id="stp_147" t1="stt_191" t2="stt_173" type="dep"/>
+            <dependency id="stp_148" t1="stt_191" t2="stt_174" type="dep"/>
+            <dependency id="stp_149" t1="stt_191" t2="stt_177" type="dep"/>
+            <dependency id="stp_150" t1="stt_191" t2="stt_178" type="dep"/>
+            <dependency id="stp_151" t1="stt_191" t2="stt_179" type="dep"/>
+            <dependency id="stp_152" t1="stt_191" t2="stt_180" type="dep"/>
+            <dependency id="stp_153" t1="stt_191" t2="stt_181" type="dep"/>
+            <dependency id="stp_154" t1="stt_191" t2="stt_182" type="dep"/>
+            <dependency id="stp_155" t1="stt_191" t2="stt_183" type="dep"/>
+            <dependency id="stp_156" t1="stt_191" t2="stt_185" type="dep"/>
+            <dependency id="stp_157" t1="stt_191" t2="stt_186" type="dep"/>
+            <dependency id="stp_158" t1="stt_191" t2="stt_187" type="dep"/>
+            <dependency id="stp_159" t1="stt_191" t2="stt_188" type="dep"/>
+            <dependency id="stp_160" t1="stt_191" t2="stt_189" type="dep"/>
+        </dependencies>
+        <tree>(X (X The) (X prespecified) (X primary) (X analyses) (X did) (X not) (X show) (X any) (X treatment) (X benefit) (X at) (X either) (X of) (X the) (X doses) (X tested) (X for) (X the) (X coprimary) (X outcomes) (X -LRB-) (X change) (X in) (X ADAS-Cog) (X score) (X compared) (X with) (X control) (X -LSB-) (X n) (X =) (X 354) (X ,) (X 6) (X ·) (X 32) (X ,) (X 95) (X %) (X CI) (X 5) (X ·) (X 31) (X --) (X 7) (X ·) (X 34) (X -RSB-) (X :) (X 75) (X mg) (X LMTM) (X twice) (X a) (X day) (X -LSB-) (X n) (X =) (X 257) (X -RSB-) (X --) (X 0) (X ·) (X 02) (X ,) (X --) (X 1) (X ·) (X 60) (X to) (X 1) (X ·) (X 56) (X ,) (X p) (X =) (X 0) (X ·) (X 9834) (X ,) (X 125) (X mg) (X LMTM) (X twice) (X a) (X day) (X -LSB-) (X n) (X =) (X 250) (X -RSB-) (X --) (X 0) (X ·) (X 43) (X ,) (X --) (X 2) (X ·) (X 06) (X to) (X 1) (X ·) (X 20) (X ,) (X p) (X =) (X 0) (X ·) (X 9323) (X ;) (X change) (X in) (X ADCS-ADL) (X score) (X compared) (X with) (X control) (X -LSB-) (X --) (X 8) (X ·) (X 22) (X ,) (X 95) (X %) (X CI) (X --) (X 9) (X ·) (X 63) (X to) (X --) (X 6) (X ·) (X 82) (X -RSB-) (X :) (X 75) (X mg) (X LMTM) (X twice) (X a) (X day) (X --) (X 0) (X ·) (X 93) (X ,) (X --) (X 3) (X ·) (X 12) (X to) (X 1) (X ·) (X 26) (X ,) (X p) (X =) (X 0) (X ·) (X 8659) (X ;) (X 125) (X mg) (X LMTM) (X twice) (X a) (X day) (X --) (X 0) (X ·) (X 34) (X ,) (X --) (X 2) (X ·) (X 61) (X to) (X 1) (X ·) (X 93) (X ,) (X p) (X =) (X 0) (X ·) (X 9479) (X -RRB-) (X=H .))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3196-3346" id="S18">
+        <text xml:space="preserve">Gastrointestinal and urinary effects were the most common adverse events with both high doses of LMTM, and the most common causes for discontinuation.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="3196-3212" text="Gastrointestinal" lemma="gastrointestinal"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="3213-3216" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="3217-3224" text="urinary" lemma="urinary"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="3225-3232" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="3233-3237" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="3238-3241" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="RBS" charOffset="3242-3246" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="3247-3253" text="common" lemma="common"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="3254-3261" text="adverse" lemma="adverse"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="3262-3268" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="3269-3273" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="3274-3278" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="3279-3283" text="high" lemma="high"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="3284-3289" text="doses" lemma="dose"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="3290-3292" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NNP" charOffset="3293-3297" text="LMTM" lemma="LMTM"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="3297-3298" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="3299-3302" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="3303-3306" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="RBS" charOffset="3307-3311" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="3312-3318" text="common" lemma="common"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="3319-3325" text="causes" lemma="cause"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="3326-3329" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="3330-3345" text="discontinuation" lemma="discontinuation"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="3345-3346" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_3" type="conj_and"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_1" type="amod"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="amod"/>
+            <dependency id="stp_4" t1="stt_8" t2="stt_7" type="advmod"/>
+            <dependency id="stp_5" t1="stt_10" t2="stt_4" type="nsubj"/>
+            <dependency id="stp_6" t1="stt_10" t2="stt_5" type="cop"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_6" type="det"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_22" type="conj_and"/>
+            <dependency id="stp_9" t1="stt_10" t2="stt_8" type="amod"/>
+            <dependency id="stp_10" t1="stt_10" t2="stt_9" type="amod"/>
+            <dependency id="stp_11" t1="stt_10" t2="stt_14" type="prep_with"/>
+            <dependency id="stp_12" t1="stt_14" t2="stt_16" type="prep_of"/>
+            <dependency id="stp_13" t1="stt_14" t2="stt_12" type="det"/>
+            <dependency id="stp_14" t1="stt_14" t2="stt_13" type="amod"/>
+            <dependency id="stp_15" t1="stt_22" t2="stt_19" type="det"/>
+            <dependency id="stp_16" t1="stt_22" t2="stt_20" type="advmod"/>
+            <dependency id="stp_17" t1="stt_22" t2="stt_21" type="amod"/>
+            <dependency id="stp_18" t1="stt_22" t2="stt_24" type="prep_for"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (ADJP (JJ=H Gastrointestinal)
+            (CC and)
+            (JJ urinary))
+            (NNS=H effects))
+            (VP=H (VBD=H were)
+            (NP
+            (NP=H
+            (NP=H (DT the)
+            (ADJP (RBS most) (JJ=H common))
+            (JJ adverse) (NNS=H events))
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT both) (JJ high) (NNS=H doses))
+            (PP (IN=H of)
+            (NP (NNP=H LMTM))))))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (DT the) (RBS most) (JJ common) (NNS=H causes))
+            (PP (IN=H for)
+            (NP (NN=H discontinuation))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3347-3474" id="S19">
+        <text xml:space="preserve">Non-clinically significant dose-dependent reductions in haemoglobin concentrations were the most common laboratory abnormality.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="3347-3361" text="Non-clinically" lemma="non-clinically"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="3362-3373" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="3374-3388" text="dose-dependent" lemma="dose-dependent"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="3389-3399" text="reductions" lemma="reduction"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="3400-3402" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="3403-3414" text="haemoglobin" lemma="haemoglobin"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="3415-3429" text="concentrations" lemma="concentration"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="3430-3434" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="3435-3438" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="RBS" charOffset="3439-3443" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="3444-3450" text="common" lemma="common"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="3451-3461" text="laboratory" lemma="laboratory"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="3462-3473" text="abnormality" lemma="abnormality"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="3473-3474" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="advmod"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_2" type="amod"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="amod"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_7" type="prep_in"/>
+            <dependency id="stp_5" t1="stt_7" t2="stt_6" type="nn"/>
+            <dependency id="stp_6" t1="stt_11" t2="stt_10" type="advmod"/>
+            <dependency id="stp_7" t1="stt_13" t2="stt_4" type="nsubj"/>
+            <dependency id="stp_8" t1="stt_13" t2="stt_8" type="cop"/>
+            <dependency id="stp_9" t1="stt_13" t2="stt_9" type="det"/>
+            <dependency id="stp_10" t1="stt_13" t2="stt_11" type="amod"/>
+            <dependency id="stp_11" t1="stt_13" t2="stt_12" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (ADJP (RB Non-clinically) (JJ=H significant))
+            (JJ dose-dependent) (NNS=H reductions))
+            (PP (IN=H in)
+            (NP (NN haemoglobin) (NNS=H concentrations))))
+            (VP=H (VBD=H were)
+            (NP (DT the)
+            (ADJP (RBS most) (JJ=H common))
+            (NN laboratory) (NN=H abnormality)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3475-3564" id="S20">
+        <text xml:space="preserve">Amyloid-related imaging abnormalities were noted in less than 1% (8/885) of participants.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="3475-3490" text="Amyloid-related" lemma="amyloid-related"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="3491-3498" text="imaging" lemma="imaging"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="3499-3512" text="abnormalities" lemma="abnormality"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="3513-3517" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="3518-3523" text="noted" lemma="note"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="3524-3526" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJR" charOffset="3527-3531" text="less" lemma="less"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="3532-3536" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="3537-3538" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="3538-3539" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="3540-3541" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="CD" charOffset="3541-3546" text="8/885" lemma="8/885"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="3546-3547" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="3548-3550" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="3551-3563" text="participants" lemma="participant"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="3563-3564" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="amod"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="nn"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_3" type="nsubjpass"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="auxpass"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_10" type="prep_in"/>
+            <dependency id="stp_6" t1="stt_8" t2="stt_7" type="mwe"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_8" type="quantmod"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_9" type="num"/>
+            <dependency id="stp_9" t1="stt_10" t2="stt_12" type="appos"/>
+            <dependency id="stp_10" t1="stt_10" t2="stt_15" type="prep_of"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Amyloid-related) (NN imaging) (NNS=H abnormalities))
+            (VP=H (VBD=H were)
+            (VP (VBN=H noted)
+            (PP (IN=H in)
+            (NP
+            (NP=H
+            (QP
+            (XS (JJR less) (IN=H than))
+            (CD=H 1))
+            (NN=H %))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD=H 8/885))
+            (-RRB- -RRB-))
+            (PP (IN=H of)
+            (NP (NNS=H participants)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3593-3607" id="S21">
+        <text xml:space="preserve">Interpretation</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="3593-3607" text="Interpretation" lemma="interpretation"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NN=H Interpretation)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3618-3793" id="S22">
+        <text xml:space="preserve">The primary analysis for this study was negative, and the results do not suggest benefit of LMTM as an add-on treatment for patients with mild to moderate Alzheimer’s disease.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="3618-3621" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="3622-3629" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="3630-3638" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="3639-3642" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="3643-3647" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="3648-3653" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="3654-3657" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="3658-3666" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="3666-3667" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="3668-3671" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="3672-3675" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="3676-3683" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="3684-3686" text="do" lemma="do"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="3687-3690" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="3691-3698" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="3699-3706" text="benefit" lemma="benefit"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="3707-3709" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NNP" charOffset="3710-3714" text="LMTM" lemma="LMTM"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="3715-3717" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="3718-3720" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="3721-3727" text="add-on" lemma="add-on"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="3728-3737" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="3738-3741" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="3742-3750" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="3751-3755" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="3756-3760" text="mild" lemma="mild"/>
+            <token xml:space="preserve" id="stt_27" POS="TO" charOffset="3761-3763" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="3764-3772" text="moderate" lemma="moderate"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="3773-3782" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_30" POS="POS" charOffset="3782-3784" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="3785-3792" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="3792-3793" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="amod"/>
+            <dependency id="stp_3" t1="stt_3" t2="stt_6" type="prep_for"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_5" type="det"/>
+            <dependency id="stp_5" t1="stt_8" t2="stt_3" type="nsubj"/>
+            <dependency id="stp_6" t1="stt_8" t2="stt_7" type="cop"/>
+            <dependency id="stp_7" t1="stt_8" t2="stt_15" type="conj_and"/>
+            <dependency id="stp_8" t1="stt_12" t2="stt_11" type="det"/>
+            <dependency id="stp_9" t1="stt_15" t2="stt_16" type="dobj"/>
+            <dependency id="stp_10" t1="stt_15" t2="stt_22" type="prep_as"/>
+            <dependency id="stp_11" t1="stt_15" t2="stt_12" type="nsubj"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_13" type="aux"/>
+            <dependency id="stp_13" t1="stt_15" t2="stt_14" type="neg"/>
+            <dependency id="stp_14" t1="stt_15" t2="stt_31" type="prep_to"/>
+            <dependency id="stp_15" t1="stt_16" t2="stt_18" type="prep_of"/>
+            <dependency id="stp_16" t1="stt_22" t2="stt_20" type="det"/>
+            <dependency id="stp_17" t1="stt_22" t2="stt_21" type="amod"/>
+            <dependency id="stp_18" t1="stt_22" t2="stt_24" type="prep_for"/>
+            <dependency id="stp_19" t1="stt_24" t2="stt_26" type="prep_with"/>
+            <dependency id="stp_20" t1="stt_29" t2="stt_28" type="amod"/>
+            <dependency id="stp_21" t1="stt_31" t2="stt_29" type="poss"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ primary) (NN=H analysis))
+            (PP (IN=H for)
+            (NP (DT this) (NN=H study))))
+            (VP=H (VBD=H was)
+            (ADJP (JJ=H negative))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (DT the) (NNS=H results))
+            (VP=H (VBP=H do) (RB not)
+            (VP (VB=H suggest)
+            (NP
+            (NP=H (NN=H benefit))
+            (PP (IN=H of)
+            (NP (NNP=H LMTM))))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT an) (JJ add-on) (NN=H treatment))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NNS=H patients))
+            (PP (IN=H with)
+            (NP (JJ=H mild)))))))
+            (PP (TO=H to)
+            (NP
+            (NP (JJ moderate) (NN Alzheimer) (POS=H 's))
+            (NN=H disease))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3794-3908" id="S23">
+        <text xml:space="preserve">Findings from a recently completed 18-month trial of patients with mild Alzheimer’s disease will be reported soon.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="3794-3802" text="Findings" lemma="finding"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="3803-3807" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="3808-3809" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="3810-3818" text="recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="3819-3828" text="completed" lemma="complete"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="3829-3837" text="18-month" lemma="18-month"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="3838-3843" text="trial" lemma="trial"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="3844-3846" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="3847-3855" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="3856-3860" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="3861-3865" text="mild" lemma="mild"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="3866-3875" text="Alzheimer" lemma="alzheimer"/>
+            <token xml:space="preserve" id="stt_13" POS="POS" charOffset="3875-3877" text="’s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="3878-3885" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_15" POS="MD" charOffset="3886-3890" text="will" lemma="will"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="3891-3893" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="3894-3902" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_18" POS="RB" charOffset="3903-3907" text="soon" lemma="soon"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="3907-3908" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_7" type="prep_from"/>
+            <dependency id="stp_2" t1="stt_5" t2="stt_4" type="advmod"/>
+            <dependency id="stp_3" t1="stt_7" t2="stt_3" type="det"/>
+            <dependency id="stp_4" t1="stt_7" t2="stt_5" type="amod"/>
+            <dependency id="stp_5" t1="stt_7" t2="stt_6" type="amod"/>
+            <dependency id="stp_6" t1="stt_7" t2="stt_9" type="prep_of"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_14" type="prep_with"/>
+            <dependency id="stp_8" t1="stt_12" t2="stt_11" type="amod"/>
+            <dependency id="stp_9" t1="stt_14" t2="stt_12" type="poss"/>
+            <dependency id="stp_10" t1="stt_17" t2="stt_16" type="auxpass"/>
+            <dependency id="stp_11" t1="stt_17" t2="stt_1" type="nsubjpass"/>
+            <dependency id="stp_12" t1="stt_17" t2="stt_18" type="advmod"/>
+            <dependency id="stp_13" t1="stt_17" t2="stt_15" type="aux"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Findings))
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT a)
+            (ADJP (RB recently) (VBN=H completed))
+            (JJ 18-month) (NN=H trial))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H patients))
+            (PP (IN=H with)
+            (NP
+            (NP (JJ mild) (NN Alzheimer) (POS=H 's))
+            (NN=H disease))))))))
+            (VP=H (MD=H will)
+            (VP (VB=H be)
+            (VP (VBN=H reported)
+            (ADVP (RB=H soon)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3937-3944" id="S24">
+        <text xml:space="preserve">Funding</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNP" charOffset="3937-3944" text="Funding" lemma="Funding"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H (NNP=H Funding)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="3955-3974" id="S25">
+        <text xml:space="preserve">TauRx Therapeutics.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNP" charOffset="3955-3960" text="TauRx" lemma="TauRx"/>
+            <token xml:space="preserve" id="stt_2" POS="NNPS" charOffset="3961-3973" text="Therapeutics" lemma="Therapeutics"/>
+            <token xml:space="preserve" id="stt_3" POS="." charOffset="3973-3974" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (FRAG=H
+            (NP=H (NNP TauRx) (NNPS=H Therapeutics))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <section textSpan="179-3990" titleSpan="188-195" title="Summary">
+        <section textSpan="204-723" titleSpan="215-225" title="Background"/>
+        <section textSpan="732-2441" titleSpan="743-750" title="Methods"/>
+        <section textSpan="2450-3573" titleSpan="2461-2469" title="Findings"/>
+        <section textSpan="3582-3917" titleSpan="3593-3607" title="Interpretation"/>
+        <section textSpan="3926-3983" titleSpan="3937-3944" title="Funding"/>
+    </section>
+</document>

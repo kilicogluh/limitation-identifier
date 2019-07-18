@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMC5161109">
+    <text xml:space="preserve">Disparities in the Context of Opportunities for Cancer Prevention in Early Life
+        Persistent health disparities are a major contributor to disproportionate burden of cancer for some populations. Health disparities in cancer incidence and mortality may reflect differences in exposures to risk factors early in life. Understanding the distribution of exposures to early life risk and protective factors for cancer across different populations can shed light on opportunities to promote health equity at earlier developmental stages. Disparities may differentially influence risk for cancer during early life and create opportunities to promote health equity. Potential risk and protective factors for cancer in early life reveal patterns of disparities in their exposure. These disparities in exposures can manifest in downstream disparities in risk for cancer. These risk and protective factors include adverse childhood experiences; maternal alcohol consumption in pregnancy; childhood obesity; high or low birth weight; benzene exposure; use of assisted reproductive technologies; pesticide and insecticide exposure; isolated cryptorchidism; early pubertal timing; exposure to radiation; exposure to tobacco in utero and in early life; allergies, asthma, and atopy; and early exposure to infection. Disparities on the basis of racial and ethnic minority status, economic disadvantage, disability status, sex, geography, and nation of origin can occur in these risk and protective factors. Vulnerable populations experience disproportionally greater exposure to risk factors in early life. Addressing disparities in risk factors in early life can advance opportunities for prevention, promote health equity, and possibly reduce risk for subsequent development of cancer.
+      </text>
+    <sentence charOffset="0-79" id="S1">
+        <text xml:space="preserve">Disparities in the Context of Opportunities for Cancer Prevention in Early Life</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="0-11" text="Disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="12-14" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="15-18" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="19-26" text="Context" lemma="context"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="27-29" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NNPS" charOffset="30-43" text="Opportunities" lemma="Opportunities"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="44-47" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="NNP" charOffset="48-54" text="Cancer" lemma="Cancer"/>
+            <token xml:space="preserve" id="stt_9" POS="NNP" charOffset="55-65" text="Prevention" lemma="Prevention"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="66-68" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NNP" charOffset="69-74" text="Early" lemma="Early"/>
+            <token xml:space="preserve" id="stt_12" POS="NNP" charOffset="75-79" text="Life" lemma="Life"/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_4" type="prep_in"/>
+            <dependency id="stp_2" t1="stt_1" t2="stt_9" type="prep_for"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="det"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_6" type="prep_of"/>
+            <dependency id="stp_5" t1="stt_9" t2="stt_8" type="nn"/>
+            <dependency id="stp_6" t1="stt_9" t2="stt_12" type="prep_in"/>
+            <dependency id="stp_7" t1="stt_12" t2="stt_11" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NNS=H Disparities))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H Context))
+            (PP (IN=H of)
+            (NP (NNPS=H Opportunities)))))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NNP Cancer) (NNP=H Prevention))
+            (PP (IN=H in)
+            (NP (NNP Early) (NNP=H Life)))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="88-200" id="S2">
+        <text xml:space="preserve">Persistent health disparities are a major contributor to disproportionate burden of cancer for some populations.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="88-98" text="Persistent" lemma="persistent"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="99-105" text="health" lemma="health"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="106-117" text="disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="118-121" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="122-123" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="124-129" text="major" lemma="major"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="130-141" text="contributor" lemma="contributor"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="142-144" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="145-161" text="disproportionate" lemma="disproportionate"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="162-168" text="burden" lemma="burden"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="169-171" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="172-178" text="cancer" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="179-182" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="183-187" text="some" lemma="some"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="188-199" text="populations" lemma="population"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="199-200" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_3" t2="stt_1" type="amod"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="nn"/>
+            <dependency id="stp_3" t1="stt_7" t2="stt_3" type="nsubj"/>
+            <dependency id="stp_4" t1="stt_7" t2="stt_4" type="cop"/>
+            <dependency id="stp_5" t1="stt_7" t2="stt_5" type="det"/>
+            <dependency id="stp_6" t1="stt_7" t2="stt_6" type="amod"/>
+            <dependency id="stp_7" t1="stt_7" t2="stt_10" type="prep_to"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_9" type="amod"/>
+            <dependency id="stp_9" t1="stt_10" t2="stt_12" type="prep_of"/>
+            <dependency id="stp_10" t1="stt_12" t2="stt_15" type="prep_for"/>
+            <dependency id="stp_11" t1="stt_15" t2="stt_14" type="det"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Persistent) (NN health) (NNS=H disparities))
+            (VP=H (VBP=H are)
+            (NP
+            (NP=H (DT a) (JJ major) (NN=H contributor))
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ disproportionate) (NN=H burden))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H cancer))
+            (PP (IN=H for)
+            (NP (DT some) (NNS=H populations)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="201-321" id="S3">
+        <text xml:space="preserve">Health disparities in cancer incidence and mortality may reflect differences in exposures to risk factors early in life.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNP" charOffset="201-207" text="Health" lemma="Health"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="208-219" text="disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="220-222" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="223-229" text="cancer" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="230-239" text="incidence" lemma="incidence"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="240-243" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="244-253" text="mortality" lemma="mortality"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="254-257" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="258-265" text="reflect" lemma="reflect"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="266-277" text="differences" lemma="difference"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="278-280" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="281-290" text="exposures" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_13" POS="TO" charOffset="291-293" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_14" POS="VB" charOffset="294-298" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="299-306" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="307-312" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="313-315" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="316-320" text="life" lemma="life"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="320-321" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="nn"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_5" type="prep_in"/>
+            <dependency id="stp_3" t1="stt_2" t2="stt_7" type="prep_in"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_4" type="nn"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_7" type="conj_and"/>
+            <dependency id="stp_6" t1="stt_9" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_8" type="aux"/>
+            <dependency id="stp_8" t1="stt_9" t2="stt_10" type="dobj"/>
+            <dependency id="stp_9" t1="stt_9" t2="stt_14" type="xcomp"/>
+            <dependency id="stp_10" t1="stt_10" t2="stt_12" type="prep_in"/>
+            <dependency id="stp_11" t1="stt_14" t2="stt_16" type="advmod"/>
+            <dependency id="stp_12" t1="stt_14" t2="stt_13" type="aux"/>
+            <dependency id="stp_13" t1="stt_14" t2="stt_15" type="dobj"/>
+            <dependency id="stp_14" t1="stt_16" t2="stt_18" type="prep_in"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNP Health) (NNS=H disparities))
+            (PP (IN=H in)
+            (NP (NN cancer) (NN=H incidence)
+            (CC and)
+            (NN mortality))))
+            (VP=H (MD=H may)
+            (VP (VB=H reflect)
+            (NP
+            (NP=H (NNS=H differences))
+            (PP (IN=H in)
+            (NP (NNS=H exposures))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H risk)
+            (NP (NNS=H factors))
+            (ADVP (RB=H early)
+            (PP (IN=H in)
+            (NP (NN=H life)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="322-537" id="S4">
+        <text xml:space="preserve">Understanding the distribution of exposures to early life risk and protective factors for cancer across different populations can shed light on opportunities to promote health equity at earlier developmental stages.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="322-335" text="Understanding" lemma="understand"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="336-339" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="340-352" text="distribution" lemma="distribution"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="353-355" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="356-365" text="exposures" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="366-368" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="369-374" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="375-379" text="life" lemma="life"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="380-384" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="385-388" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="389-399" text="protective" lemma="protective"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="400-407" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="408-411" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="412-418" text="cancer" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="419-425" text="across" lemma="across"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="426-435" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="436-447" text="populations" lemma="population"/>
+            <token xml:space="preserve" id="stt_18" POS="MD" charOffset="448-451" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_19" POS="VB" charOffset="452-456" text="shed" lemma="shed"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="457-462" text="light" lemma="light"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="463-465" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="466-479" text="opportunities" lemma="opportunity"/>
+            <token xml:space="preserve" id="stt_23" POS="TO" charOffset="480-482" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_24" POS="VB" charOffset="483-490" text="promote" lemma="promote"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="491-497" text="health" lemma="health"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="498-504" text="equity" lemma="equity"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="505-507" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_28" POS="JJR" charOffset="508-515" text="earlier" lemma="earlier"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="516-529" text="developmental" lemma="developmental"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="530-536" text="stages" lemma="stage"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="536-537" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_17" type="prep_across"/>
+            <dependency id="stp_2" t1="stt_1" t2="stt_3" type="dobj"/>
+            <dependency id="stp_3" t1="stt_3" t2="stt_2" type="det"/>
+            <dependency id="stp_4" t1="stt_3" t2="stt_5" type="prep_of"/>
+            <dependency id="stp_5" t1="stt_3" t2="stt_12" type="prep_of"/>
+            <dependency id="stp_6" t1="stt_5" t2="stt_9" type="prep_to"/>
+            <dependency id="stp_7" t1="stt_5" t2="stt_12" type="conj_and"/>
+            <dependency id="stp_8" t1="stt_9" t2="stt_7" type="amod"/>
+            <dependency id="stp_9" t1="stt_9" t2="stt_8" type="nn"/>
+            <dependency id="stp_10" t1="stt_12" t2="stt_11" type="amod"/>
+            <dependency id="stp_11" t1="stt_12" t2="stt_14" type="prep_for"/>
+            <dependency id="stp_12" t1="stt_17" t2="stt_16" type="amod"/>
+            <dependency id="stp_13" t1="stt_19" t2="stt_1" type="csubj"/>
+            <dependency id="stp_14" t1="stt_19" t2="stt_18" type="aux"/>
+            <dependency id="stp_15" t1="stt_19" t2="stt_20" type="dobj"/>
+            <dependency id="stp_16" t1="stt_19" t2="stt_24" type="xcomp"/>
+            <dependency id="stp_17" t1="stt_20" t2="stt_22" type="prep_on"/>
+            <dependency id="stp_18" t1="stt_24" t2="stt_23" type="aux"/>
+            <dependency id="stp_19" t1="stt_24" t2="stt_26" type="dobj"/>
+            <dependency id="stp_20" t1="stt_24" t2="stt_30" type="prep_at"/>
+            <dependency id="stp_21" t1="stt_26" t2="stt_25" type="nn"/>
+            <dependency id="stp_22" t1="stt_30" t2="stt_28" type="amod"/>
+            <dependency id="stp_23" t1="stt_30" t2="stt_29" type="amod"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBG=H Understanding)
+            (NP
+            (NP=H (DT the) (NN=H distribution))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (NNS=H exposures))
+            (PP (TO=H to)
+            (NP (JJ early) (NN life) (NN=H risk))))
+            (CC and)
+            (NP
+            (NP=H (JJ protective) (NNS=H factors))
+            (PP (IN=H for)
+            (NP (NN=H cancer)))))))
+            (PP (IN=H across)
+            (NP (JJ different) (NNS=H populations)))))
+            (VP=H (MD=H can)
+            (VP (VB=H shed)
+            (NP
+            (NP=H (NN=H light))
+            (PP (IN=H on)
+            (NP (NNS=H opportunities))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H promote)
+            (NP (NN health) (NN=H equity))
+            (PP (IN=H at)
+            (NP (JJR earlier) (JJ developmental) (NNS=H stages))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="538-663" id="S5">
+        <text xml:space="preserve">Disparities may differentially influence risk for cancer during early life and create opportunities to promote health equity.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="538-549" text="Disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_2" POS="MD" charOffset="550-553" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="554-568" text="differentially" lemma="differentially"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="569-578" text="influence" lemma="influence"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="579-583" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="584-587" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="588-594" text="cancer" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="595-601" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="602-607" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="608-612" text="life" lemma="life"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="613-616" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="VB" charOffset="617-623" text="create" lemma="create"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="624-637" text="opportunities" lemma="opportunity"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="638-640" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="641-648" text="promote" lemma="promote"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="649-655" text="health" lemma="health"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="656-662" text="equity" lemma="equity"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="662-663" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_4" t2="stt_1" type="nsubj"/>
+            <dependency id="stp_2" t1="stt_4" t2="stt_2" type="aux"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_3" type="advmod"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_5" type="dobj"/>
+            <dependency id="stp_5" t1="stt_4" t2="stt_10" type="prep_during"/>
+            <dependency id="stp_6" t1="stt_4" t2="stt_12" type="conj_and"/>
+            <dependency id="stp_7" t1="stt_5" t2="stt_7" type="prep_for"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_9" type="amod"/>
+            <dependency id="stp_9" t1="stt_12" t2="stt_1" type="nsubj"/>
+            <dependency id="stp_10" t1="stt_12" t2="stt_15" type="xcomp"/>
+            <dependency id="stp_11" t1="stt_15" t2="stt_17" type="dobj"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_13" type="nsubj"/>
+            <dependency id="stp_13" t1="stt_15" t2="stt_14" type="aux"/>
+            <dependency id="stp_14" t1="stt_17" t2="stt_16" type="nn"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Disparities))
+            (VP=H (MD=H may)
+            (ADVP (RB=H differentially))
+            (VP
+            (VP=H (VB=H influence)
+            (NP
+            (NP=H (NN=H risk))
+            (PP (IN=H for)
+            (NP (NN=H cancer))))
+            (PP (IN=H during)
+            (NP (JJ early) (NN=H life))))
+            (CC and)
+            (VP (VB=H create)
+            (S
+            (NP (NNS=H opportunities))
+            (VP=H (TO=H to)
+            (VP (VB=H promote)
+            (NP (NN health) (NN=H equity))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="664-776" id="S6">
+        <text xml:space="preserve">Potential risk and protective factors for cancer in early life reveal patterns of disparities in their exposure.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="664-673" text="Potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="674-678" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="679-682" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="683-693" text="protective" lemma="protective"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="694-701" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="702-705" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="706-712" text="cancer" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="713-715" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="716-721" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="722-726" text="life" lemma="life"/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="727-733" text="reveal" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="734-742" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="743-745" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="746-757" text="disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="758-760" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="PRP$" charOffset="761-766" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="767-775" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="775-776" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_17" t2="stt_16" type="poss"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_1" type="amod"/>
+            <dependency id="stp_3" t1="stt_2" t2="stt_5" type="conj_and"/>
+            <dependency id="stp_4" t1="stt_2" t2="stt_7" type="prep_for"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_4" type="amod"/>
+            <dependency id="stp_6" t1="stt_7" t2="stt_10" type="prep_in"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_9" type="amod"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_9" t1="stt_11" t2="stt_5" type="nsubj"/>
+            <dependency id="stp_10" t1="stt_11" t2="stt_12" type="dobj"/>
+            <dependency id="stp_11" t1="stt_12" t2="stt_14" type="prep_of"/>
+            <dependency id="stp_12" t1="stt_14" t2="stt_17" type="prep_in"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (JJ Potential) (NN=H risk))
+            (CC and)
+            (NP (JJ protective) (NNS=H factors)))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H cancer))
+            (PP (IN=H in)
+            (NP (JJ early) (NN=H life))))))
+            (VP=H (VBP=H reveal)
+            (NP
+            (NP=H (NNS=H patterns))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H disparities))
+            (PP (IN=H in)
+            (NP (PRP$ their) (NN=H exposure)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="777-866" id="S7">
+        <text xml:space="preserve">These disparities in exposures can manifest in downstream disparities in risk for cancer.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="777-782" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="783-794" text="disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="795-797" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="798-807" text="exposures" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_5" POS="MD" charOffset="808-811" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="812-820" text="manifest" lemma="manifest"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="821-823" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="824-834" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="835-846" text="disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="847-849" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="850-854" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="855-858" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="859-865" text="cancer" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="865-866" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_4" type="prep_in"/>
+            <dependency id="stp_3" t1="stt_6" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_5" type="aux"/>
+            <dependency id="stp_5" t1="stt_6" t2="stt_9" type="prep_in"/>
+            <dependency id="stp_6" t1="stt_9" t2="stt_8" type="amod"/>
+            <dependency id="stp_7" t1="stt_9" t2="stt_11" type="prep_in"/>
+            <dependency id="stp_8" t1="stt_11" t2="stt_13" type="prep_for"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT These) (NNS=H disparities))
+            (PP (IN=H in)
+            (NP (NNS=H exposures))))
+            (VP=H (MD=H can)
+            (VP (VB=H manifest)
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ downstream) (NNS=H disparities))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H risk))
+            (PP (IN=H for)
+            (NP (NN=H cancer)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="867-1306" id="S8">
+        <text xml:space="preserve">These risk and protective factors include adverse childhood experiences; maternal alcohol consumption in pregnancy; childhood obesity; high or low birth weight; benzene exposure; use of assisted reproductive technologies; pesticide and insecticide exposure; isolated cryptorchidism; early pubertal timing; exposure to radiation; exposure to tobacco in utero and in early life; allergies, asthma, and atopy; and early exposure to infection.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="867-872" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="873-877" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="878-881" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="882-892" text="protective" lemma="protective"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="893-900" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="901-908" text="include" lemma="include"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="909-916" text="adverse" lemma="adverse"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="917-926" text="childhood" lemma="childhood"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="927-938" text="experiences" lemma="experience"/>
+            <token xml:space="preserve" id="stt_10" POS=":" charOffset="938-939" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="940-948" text="maternal" lemma="maternal"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="949-956" text="alcohol" lemma="alcohol"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="957-968" text="consumption" lemma="consumption"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="969-971" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="972-981" text="pregnancy" lemma="pregnancy"/>
+            <token xml:space="preserve" id="stt_16" POS=":" charOffset="981-982" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="983-992" text="childhood" lemma="childhood"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="993-1000" text="obesity" lemma="obesity"/>
+            <token xml:space="preserve" id="stt_19" POS=":" charOffset="1000-1001" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1002-1006" text="high" lemma="high"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="1007-1009" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1010-1013" text="low" lemma="low"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1014-1019" text="birth" lemma="birth"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1020-1026" text="weight" lemma="weight"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="1026-1027" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1028-1035" text="benzene" lemma="benzene"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1036-1044" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_28" POS=":" charOffset="1044-1045" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1046-1049" text="use" lemma="use"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1050-1052" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="1053-1061" text="assisted" lemma="assisted"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1062-1074" text="reproductive" lemma="reproductive"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="1075-1087" text="technologies" lemma="technology"/>
+            <token xml:space="preserve" id="stt_34" POS=":" charOffset="1087-1088" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1089-1098" text="pesticide" lemma="pesticide"/>
+            <token xml:space="preserve" id="stt_36" POS="CC" charOffset="1099-1102" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1103-1114" text="insecticide" lemma="insecticide"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1115-1123" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_39" POS=":" charOffset="1123-1124" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_40" POS="VBN" charOffset="1125-1133" text="isolated" lemma="isolate"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1134-1148" text="cryptorchidism" lemma="cryptorchidism"/>
+            <token xml:space="preserve" id="stt_42" POS=":" charOffset="1148-1149" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_43" POS="RB" charOffset="1150-1155" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_44" POS="JJ" charOffset="1156-1164" text="pubertal" lemma="pubertal"/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="1165-1171" text="timing" lemma="timing"/>
+            <token xml:space="preserve" id="stt_46" POS=":" charOffset="1171-1172" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_47" POS="NN" charOffset="1173-1181" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_48" POS="TO" charOffset="1182-1184" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_49" POS="NN" charOffset="1185-1194" text="radiation" lemma="radiation"/>
+            <token xml:space="preserve" id="stt_50" POS=":" charOffset="1194-1195" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_51" POS="NN" charOffset="1196-1204" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_52" POS="TO" charOffset="1205-1207" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_53" POS="NN" charOffset="1208-1215" text="tobacco" lemma="tobacco"/>
+            <token xml:space="preserve" id="stt_54" POS="IN" charOffset="1216-1218" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_55" POS="NN" charOffset="1219-1224" text="utero" lemma="utero"/>
+            <token xml:space="preserve" id="stt_56" POS="CC" charOffset="1225-1228" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_57" POS="IN" charOffset="1229-1231" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_58" POS="JJ" charOffset="1232-1237" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_59" POS="NN" charOffset="1238-1242" text="life" lemma="life"/>
+            <token xml:space="preserve" id="stt_60" POS=":" charOffset="1242-1243" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_61" POS="NNS" charOffset="1244-1253" text="allergies" lemma="allergy"/>
+            <token xml:space="preserve" id="stt_62" POS="," charOffset="1253-1254" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_63" POS="NN" charOffset="1255-1261" text="asthma" lemma="asthma"/>
+            <token xml:space="preserve" id="stt_64" POS="," charOffset="1261-1262" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_65" POS="CC" charOffset="1263-1266" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_66" POS="NN" charOffset="1267-1272" text="atopy" lemma="atopy"/>
+            <token xml:space="preserve" id="stt_67" POS=":" charOffset="1272-1273" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_68" POS="CC" charOffset="1274-1277" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_69" POS="JJ" charOffset="1278-1283" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_70" POS="NN" charOffset="1284-1292" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_71" POS="TO" charOffset="1293-1295" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_72" POS="NN" charOffset="1296-1305" text="infection" lemma="infection"/>
+            <token xml:space="preserve" id="stt_73" POS="." charOffset="1305-1306" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="det"/>
+            <dependency id="stp_2" t1="stt_2" t2="stt_5" type="conj_and"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_4" type="amod"/>
+            <dependency id="stp_4" t1="stt_6" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_5" t1="stt_6" t2="stt_5" type="nsubj"/>
+            <dependency id="stp_6" t1="stt_6" t2="stt_40" type="dep"/>
+            <dependency id="stp_7" t1="stt_70" t2="stt_69" type="amod"/>
+            <dependency id="stp_8" t1="stt_70" t2="stt_72" type="prep_to"/>
+            <dependency id="stp_9" t1="stt_9" t2="stt_7" type="amod"/>
+            <dependency id="stp_10" t1="stt_9" t2="stt_8" type="nn"/>
+            <dependency id="stp_11" t1="stt_9" t2="stt_13" type="dep"/>
+            <dependency id="stp_12" t1="stt_13" t2="stt_18" type="dep"/>
+            <dependency id="stp_13" t1="stt_13" t2="stt_35" type="dep"/>
+            <dependency id="stp_14" t1="stt_13" t2="stt_38" type="dep"/>
+            <dependency id="stp_15" t1="stt_13" t2="stt_26" type="dep"/>
+            <dependency id="stp_16" t1="stt_13" t2="stt_11" type="amod"/>
+            <dependency id="stp_17" t1="stt_13" t2="stt_12" type="nn"/>
+            <dependency id="stp_18" t1="stt_13" t2="stt_29" type="dep"/>
+            <dependency id="stp_19" t1="stt_13" t2="stt_15" type="prep_in"/>
+            <dependency id="stp_20" t1="stt_18" t2="stt_17" type="nn"/>
+            <dependency id="stp_21" t1="stt_18" t2="stt_24" type="dep"/>
+            <dependency id="stp_22" t1="stt_20" t2="stt_22" type="conj_or"/>
+            <dependency id="stp_23" t1="stt_24" t2="stt_20" type="amod"/>
+            <dependency id="stp_24" t1="stt_24" t2="stt_22" type="amod"/>
+            <dependency id="stp_25" t1="stt_24" t2="stt_23" type="nn"/>
+            <dependency id="stp_26" t1="stt_26" t2="stt_27" type="dep"/>
+            <dependency id="stp_27" t1="stt_29" t2="stt_33" type="prep_of"/>
+            <dependency id="stp_28" t1="stt_33" t2="stt_32" type="amod"/>
+            <dependency id="stp_29" t1="stt_33" t2="stt_31" type="amod"/>
+            <dependency id="stp_30" t1="stt_35" t2="stt_38" type="conj_and"/>
+            <dependency id="stp_31" t1="stt_38" t2="stt_37" type="nn"/>
+            <dependency id="stp_32" t1="stt_40" t2="stt_51" type="dobj"/>
+            <dependency id="stp_33" t1="stt_40" t2="stt_70" type="dobj"/>
+            <dependency id="stp_34" t1="stt_40" t2="stt_9" type="nsubj"/>
+            <dependency id="stp_35" t1="stt_40" t2="stt_41" type="dobj"/>
+            <dependency id="stp_36" t1="stt_40" t2="stt_45" type="dobj"/>
+            <dependency id="stp_37" t1="stt_40" t2="stt_61" type="dobj"/>
+            <dependency id="stp_38" t1="stt_40" t2="stt_47" type="dobj"/>
+            <dependency id="stp_39" t1="stt_41" t2="stt_66" type="conj_and"/>
+            <dependency id="stp_40" t1="stt_41" t2="stt_51" type="conj_and"/>
+            <dependency id="stp_41" t1="stt_41" t2="stt_51" type="conj_and"/>
+            <dependency id="stp_42" t1="stt_41" t2="stt_70" type="conj_and"/>
+            <dependency id="stp_43" t1="stt_41" t2="stt_45" type="conj_and"/>
+            <dependency id="stp_44" t1="stt_41" t2="stt_61" type="conj_and"/>
+            <dependency id="stp_45" t1="stt_41" t2="stt_47" type="conj_and"/>
+            <dependency id="stp_46" t1="stt_41" t2="stt_63" type="conj_and"/>
+            <dependency id="stp_47" t1="stt_45" t2="stt_43" type="advmod"/>
+            <dependency id="stp_48" t1="stt_45" t2="stt_44" type="amod"/>
+            <dependency id="stp_49" t1="stt_47" t2="stt_49" type="prep_to"/>
+            <dependency id="stp_50" t1="stt_51" t2="stt_51" type="conj_and"/>
+            <dependency id="stp_51" t1="stt_51" t2="stt_53" type="prep_to"/>
+            <dependency id="stp_52" t1="stt_51" t2="stt_59" type="prep_in"/>
+            <dependency id="stp_53" t1="stt_53" t2="stt_55" type="prep_in"/>
+            <dependency id="stp_54" t1="stt_59" t2="stt_58" type="amod"/>
+            <dependency id="stp_55" t1="stt_61" t2="stt_66" type="conj_and"/>
+            <dependency id="stp_56" t1="stt_61" t2="stt_63" type="conj_and"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT These) (NN=H risk))
+            (CC and)
+            (NP (JJ protective) (NNS=H factors)))
+            (VP=H (VBP=H include)
+            (S
+            (NP
+            (NP=H (JJ adverse) (NN childhood) (NNS=H experiences))
+            (: ;)
+            (NP
+            (NP=H
+            (NP=H (JJ maternal) (NN alcohol) (NN=H consumption))
+            (PP (IN=H in)
+            (NP (NN=H pregnancy))))
+            (: ;)
+            (NP
+            (NP=H (NN childhood) (NN=H obesity))
+            (: ;)
+            (NP
+            (ADJP (JJ=H high)
+            (CC or)
+            (JJ low))
+            (NN birth) (NN=H weight)))
+            (: ;)
+            (NP
+            (NP=H (NN=H benzene))
+            (NP (NN=H exposure)))
+            (: ;)
+            (NP
+            (NP=H (NN=H use))
+            (PP (IN=H of)
+            (NP (JJ assisted) (JJ reproductive) (NNS=H technologies))))
+            (: ;)
+            (NP
+            (NP=H (NN=H pesticide))
+            (CC and)
+            (NP (NN insecticide) (NN=H exposure))))
+            (: ;))
+            (VP=H (VBN=H isolated)
+            (NP
+            (NP=H (NN=H cryptorchidism))
+            (: ;)
+            (NP (RB early) (JJ pubertal) (NN=H timing))
+            (: ;)
+            (NP
+            (NP=H (NN=H exposure))
+            (PP (TO=H to)
+            (NP (NN=H radiation))))
+            (: ;)
+            (NP
+            (NP=H (NN=H exposure))
+            (PP
+            (PP=H (TO=H to)
+            (NP
+            (NP=H (NN=H tobacco))
+            (PP (IN=H in)
+            (NP (NN=H utero)))))
+            (CC and)
+            (PP (IN=H in)
+            (NP (JJ early) (NN=H life)))))
+            (: ;)
+            (NP
+            (NP=H (NNS=H allergies))
+            (, ,)
+            (NP (NN=H asthma))
+            (, ,)
+            (CC and)
+            (NP (NN=H atopy)))
+            (: ;)
+            (CC and)
+            (NP
+            (NP=H (JJ early) (NN=H exposure))
+            (PP (TO=H to)
+            (NP (NN=H infection))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1307-1496" id="S9">
+        <text xml:space="preserve">Disparities on the basis of racial and ethnic minority status, economic disadvantage, disability status, sex, geography, and nation of origin can occur in these risk and protective factors.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1307-1318" text="Disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1319-1321" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1322-1325" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1326-1331" text="basis" lemma="basis"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1332-1334" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1335-1341" text="racial" lemma="racial"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1342-1345" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1346-1352" text="ethnic" lemma="ethnic"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1353-1361" text="minority" lemma="minority"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1362-1368" text="status" lemma="status"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="1368-1369" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1370-1378" text="economic" lemma="economic"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1379-1391" text="disadvantage" lemma="disadvantage"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="1391-1392" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1393-1403" text="disability" lemma="disability"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1404-1410" text="status" lemma="status"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="1410-1411" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1412-1415" text="sex" lemma="sex"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1415-1416" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1417-1426" text="geography" lemma="geography"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="1426-1427" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="1428-1431" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1432-1438" text="nation" lemma="nation"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1439-1441" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1442-1448" text="origin" lemma="origin"/>
+            <token xml:space="preserve" id="stt_26" POS="MD" charOffset="1449-1452" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_27" POS="VB" charOffset="1453-1458" text="occur" lemma="occur"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1459-1461" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="1462-1467" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1468-1472" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="1473-1476" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1477-1487" text="protective" lemma="protective"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="1488-1495" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="1495-1496" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_4" type="prep_on"/>
+            <dependency id="stp_2" t1="stt_33" t2="stt_32" type="amod"/>
+            <dependency id="stp_3" t1="stt_4" t2="stt_16" type="prep_of"/>
+            <dependency id="stp_4" t1="stt_4" t2="stt_18" type="prep_of"/>
+            <dependency id="stp_5" t1="stt_4" t2="stt_3" type="det"/>
+            <dependency id="stp_6" t1="stt_4" t2="stt_20" type="prep_of"/>
+            <dependency id="stp_7" t1="stt_4" t2="stt_6" type="prep_of"/>
+            <dependency id="stp_8" t1="stt_4" t2="stt_23" type="prep_of"/>
+            <dependency id="stp_9" t1="stt_4" t2="stt_10" type="prep_of"/>
+            <dependency id="stp_10" t1="stt_4" t2="stt_13" type="prep_of"/>
+            <dependency id="stp_11" t1="stt_6" t2="stt_16" type="conj_and"/>
+            <dependency id="stp_12" t1="stt_6" t2="stt_18" type="conj_and"/>
+            <dependency id="stp_13" t1="stt_6" t2="stt_20" type="conj_and"/>
+            <dependency id="stp_14" t1="stt_6" t2="stt_23" type="conj_and"/>
+            <dependency id="stp_15" t1="stt_6" t2="stt_10" type="conj_and"/>
+            <dependency id="stp_16" t1="stt_6" t2="stt_13" type="conj_and"/>
+            <dependency id="stp_17" t1="stt_10" t2="stt_8" type="amod"/>
+            <dependency id="stp_18" t1="stt_10" t2="stt_9" type="nn"/>
+            <dependency id="stp_19" t1="stt_13" t2="stt_12" type="amod"/>
+            <dependency id="stp_20" t1="stt_16" t2="stt_15" type="nn"/>
+            <dependency id="stp_21" t1="stt_23" t2="stt_25" type="prep_of"/>
+            <dependency id="stp_22" t1="stt_27" t2="stt_1" type="nsubj"/>
+            <dependency id="stp_23" t1="stt_27" t2="stt_33" type="prep_in"/>
+            <dependency id="stp_24" t1="stt_27" t2="stt_26" type="aux"/>
+            <dependency id="stp_25" t1="stt_27" t2="stt_30" type="prep_in"/>
+            <dependency id="stp_26" t1="stt_30" t2="stt_33" type="conj_and"/>
+            <dependency id="stp_27" t1="stt_30" t2="stt_29" type="det"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Disparities))
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (NN=H basis))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ=H racial))
+            (CC and)
+            (NP (JJ ethnic) (NN minority) (NN=H status))
+            (, ,)
+            (NP (JJ economic) (NN=H disadvantage))
+            (, ,)
+            (NP (NN disability) (NN=H status))
+            (, ,)
+            (NP (NN=H sex))
+            (, ,)
+            (NP (NN=H geography))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN=H nation))
+            (PP (IN=H of)
+            (NP (NN=H origin)))))))))
+            (VP=H (MD=H can)
+            (VP (VB=H occur)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT these) (NN=H risk))
+            (CC and)
+            (NP (JJ protective) (NNS=H factors))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1497-1596" id="S10">
+        <text xml:space="preserve">Vulnerable populations experience disproportionally greater exposure to risk factors in early life.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1497-1507" text="Vulnerable" lemma="vulnerable"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1508-1519" text="populations" lemma="population"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1520-1530" text="experience" lemma="experience"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="1531-1548" text="disproportionally" lemma="disproportionally"/>
+            <token xml:space="preserve" id="stt_5" POS="JJR" charOffset="1549-1556" text="greater" lemma="greater"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1557-1565" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="1566-1568" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="1569-1573" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1574-1581" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1582-1584" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1585-1590" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1591-1595" text="life" lemma="life"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="1595-1596" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_2" t2="stt_1" type="amod"/>
+            <dependency id="stp_2" t1="stt_3" t2="stt_2" type="nsubj"/>
+            <dependency id="stp_3" t1="stt_3" t2="stt_6" type="dobj"/>
+            <dependency id="stp_4" t1="stt_3" t2="stt_8" type="xcomp"/>
+            <dependency id="stp_5" t1="stt_5" t2="stt_4" type="advmod"/>
+            <dependency id="stp_6" t1="stt_6" t2="stt_5" type="amod"/>
+            <dependency id="stp_7" t1="stt_8" t2="stt_7" type="aux"/>
+            <dependency id="stp_8" t1="stt_8" t2="stt_9" type="dobj"/>
+            <dependency id="stp_9" t1="stt_8" t2="stt_12" type="prep_in"/>
+            <dependency id="stp_10" t1="stt_12" t2="stt_11" type="amod"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Vulnerable) (NNS=H populations))
+            (VP=H (VBP=H experience)
+            (NP
+            (ADJP (RB disproportionally) (JJR=H greater))
+            (NN=H exposure))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H risk)
+            (NP (NNS=H factors))
+            (PP (IN=H in)
+            (NP (JJ early) (NN=H life)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1597-1777" id="S11">
+        <text xml:space="preserve">Addressing disparities in risk factors in early life can advance opportunities for prevention, promote health equity, and possibly reduce risk for subsequent development of cancer.</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="1597-1607" text="Addressing" lemma="address"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1608-1619" text="disparities" lemma="disparity"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1620-1622" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1623-1627" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1628-1635" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1636-1638" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1639-1644" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1645-1649" text="life" lemma="life"/>
+            <token xml:space="preserve" id="stt_9" POS="MD" charOffset="1650-1653" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="1654-1661" text="advance" lemma="advance"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1662-1675" text="opportunities" lemma="opportunity"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1676-1679" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1680-1690" text="prevention" lemma="prevention"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="1690-1691" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="1692-1699" text="promote" lemma="promote"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1700-1706" text="health" lemma="health"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1707-1713" text="equity" lemma="equity"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1713-1714" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1715-1718" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="1719-1727" text="possibly" lemma="possibly"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="1728-1734" text="reduce" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1735-1739" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1740-1743" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1744-1754" text="subsequent" lemma="subsequent"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1755-1766" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1767-1769" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1770-1776" text="cancer" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1776-1777" text="." lemma="."/>
+        </tokens>
+        <dependencies>
+            <dependency id="stp_1" t1="stt_1" t2="stt_2" type="dobj"/>
+            <dependency id="stp_2" t1="stt_1" t2="stt_5" type="prep_in"/>
+            <dependency id="stp_3" t1="stt_5" t2="stt_4" type="nn"/>
+            <dependency id="stp_4" t1="stt_5" t2="stt_8" type="prep_in"/>
+            <dependency id="stp_5" t1="stt_8" t2="stt_7" type="amod"/>
+            <dependency id="stp_6" t1="stt_10" t2="stt_1" type="csubj"/>
+            <dependency id="stp_7" t1="stt_10" t2="stt_21" type="conj_and"/>
+            <dependency id="stp_8" t1="stt_10" t2="stt_9" type="aux"/>
+            <dependency id="stp_9" t1="stt_10" t2="stt_11" type="dobj"/>
+            <dependency id="stp_10" t1="stt_10" t2="stt_15" type="conj_and"/>
+            <dependency id="stp_11" t1="stt_11" t2="stt_13" type="prep_for"/>
+            <dependency id="stp_12" t1="stt_15" t2="stt_1" type="csubj"/>
+            <dependency id="stp_13" t1="stt_15" t2="stt_17" type="dobj"/>
+            <dependency id="stp_14" t1="stt_17" t2="stt_16" type="nn"/>
+            <dependency id="stp_15" t1="stt_21" t2="stt_1" type="csubj"/>
+            <dependency id="stp_16" t1="stt_21" t2="stt_20" type="advmod"/>
+            <dependency id="stp_17" t1="stt_21" t2="stt_22" type="dobj"/>
+            <dependency id="stp_18" t1="stt_22" t2="stt_25" type="prep_for"/>
+            <dependency id="stp_19" t1="stt_25" t2="stt_24" type="amod"/>
+            <dependency id="stp_20" t1="stt_25" t2="stt_27" type="prep_of"/>
+        </dependencies>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBG=H Addressing)
+            (NP (NNS=H disparities))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN risk) (NNS=H factors))
+            (PP (IN=H in)
+            (NP (JJ early) (NN=H life)))))))
+            (VP=H (MD=H can)
+            (VP
+            (VP=H (VB=H advance)
+            (NP
+            (NP=H (NNS=H opportunities))
+            (PP (IN=H for)
+            (NP (NN=H prevention)))))
+            (, ,)
+            (VP (VBP=H promote)
+            (NP (NN health) (NN=H equity)))
+            (, ,)
+            (CC and)
+            (VP
+            (ADVP (RB=H possibly))
+            (VB=H reduce)
+            (NP
+            (NP=H (NN=H risk))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ subsequent) (NN=H development))
+            (PP (IN=H of)
+            (NP (NN=H cancer)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <section textSpan="79-1784"/>
+</document>
