@@ -1,4 +1,4 @@
-# skr-limitations
+# limitation-identifier
 A program to recognize self-acknowledged limitation sentences in biomedical articles
 
 The repository contains the source code for the system described in the article [Automatic recognition of self-acknowledged limitations in clinical research literature](https://academic.oup.com/jamia/article/25/7/855/4990607). The best performing rule-based system is presented (`gov.nih.nlm.limitations.RuleBasedLimitationSentenceRecognizer`), as well as the rule-based baseline (`gov.nih.nlm.limitations.RuleBasedLimitationSentenceRecognizerBaseline`).  
@@ -17,5 +17,5 @@ Stanford CoreNLP model jar file that is needed for processing raw text for lexic
 
 ## Contact
 
-- Halil Kilicoglu:      [halil.kilicoglu@gmail.com](mailto:halil.kilicoglu@gmail.com)
+- Halil Kilicoglu:      [halil@illinois.edu](mailto:halil@illinois.edu)
 
