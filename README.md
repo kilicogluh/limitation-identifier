@@ -1,4 +1,4 @@
-# limitation-identifier
+# limitation-recognizer
 A program to recognize self-acknowledged limitation sentences in biomedical articles
 
 The repository contains the source code for the system described in the article [Automatic recognition of self-acknowledged limitations in clinical research literature](https://academic.oup.com/jamia/article/25/7/855/4990607). The best performing rule-based system is presented (`gov.nih.nlm.limitations.RuleBasedLimitationSentenceRecognizer`), as well as the rule-based baseline (`gov.nih.nlm.limitations.RuleBasedLimitationSentenceRecognizerBaseline`).  
