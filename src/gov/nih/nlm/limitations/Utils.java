@@ -20,8 +20,8 @@ public class Utils {
 	public static Pattern TEXT_PATTERN = Pattern.compile("\\w");
 	public static Pattern LIMITATION_ANY_PATTERN = Pattern.compile(" (limitations|weaknesses)");
 	public static Pattern LIMITATION_BEGIN_PATTERN = Pattern.compile(" (limitations|weaknesses)\\p{Punct}$");
-	//private static Pattern LIMITATION_ANY_PATTERN = Pattern.compile("(limitations|limitation)",Pattern.CASE_INSENSITIVE);
-	//private static Pattern LIMITATION_BEGIN_PATTERN = Pattern.compile("(limitations|limitation)\\p{Punct}$", Pattern.CASE_INSENSITIVE);
+	private static Pattern LIMITATION_ANY_PATTERN2 = Pattern.compile("(limitations|limitation|weaknesses|caveats|caveat)",Pattern.CASE_INSENSITIVE);
+	private static Pattern LIMITATION_BEGIN_PATTERN2 = Pattern.compile("(limitations|limitation|weaknesses|caveats|caveat)\\p{Punct}$", Pattern.CASE_INSENSITIVE);
 	
 	public static XMLReader getXMLReader() {
 		XMLReader reader = new XMLReader();
@@ -52,8 +52,33 @@ public class Utils {
 				if (limitationIntroductorySentence(s)) return true;
 			}
 		}
+		
+		
 		return false;
 	}			
+	
+	public static boolean inLimitationParagraph2(Sentence sent, boolean strict) {
+		int pb = getParagraphBegin(sent);
+		if (pb == -1) return false;
+		Sentence piSent = sent.getDocument().getSubsumingSentence(new Span(pb,pb+1));
+		if (piSent == null) {
+			log.severe("Empty sentence");
+			return false;
+		}
+		int ind = sent.getDocument().getSentences().indexOf(piSent);
+		int endInd = sent.getDocument().getSentences().indexOf(sent);
+		for (int i = ind; i <= endInd; i++ ) {
+			Sentence s = sent.getDocument().getSentences().get(i);
+			if (strict) {
+				Matcher m = LIMITATION_BEGIN_PATTERN2.matcher(s.getText().toLowerCase());
+				if (m.find()) return true;
+			} else {
+				Matcher m = LIMITATION_ANY_PATTERN2.matcher(s.getText().toLowerCase());
+				if (m.find()) return true;
+			}
+		}
+		return false;
+	}
 	
 	public static int getParagraphBegin(Sentence sent) {
 		Span sents = sent.getSpan();

@@ -2,14 +2,14 @@ package gov.nih.nlm.limitations;
 
 import java.io.File;
 import java.io.IOException;
-import java.io.PrintWriter;
+import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Logger;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 import gov.nih.nlm.ling.core.Document;
 import gov.nih.nlm.ling.core.Sentence;
@@ -18,27 +18,35 @@ import gov.nih.nlm.ling.sem.SemanticItem;
 import gov.nih.nlm.ling.sem.SemanticItemFactory;
 import gov.nih.nlm.ling.util.FileUtils;
 
+
 /**
  * 
  * @author Halil Kilicoglu
  *
  */
-public class RuleBasedLimitationSentenceRecognizerPressRelease {
-	private static Logger log = Logger.getLogger(RuleBasedLimitationSentenceRecognizerPressRelease.class.getName());	
+public class PreprintLimitationRecognizer {
+	private static Logger log = Logger.getLogger(PreprintLimitationRecognizer.class.getName());	
 
-	private static Map<String,String> predictLabels = new HashMap<>();
+	private static Map<String,List<String>> posSentences = new HashMap<>();
 	private static XMLReader xmlReader;
 	private static Map<Class<? extends SemanticItem>,List<String>> annTypes;
 
 	private static void labelSentence(Sentence sent) {
 		Document doc = sent.getDocument();
-		String key = doc.getId() + "_" + sent.getId();
-		predictLabels.put(key,label(sent));		
+		String lbl = label(sent);
+		if (lbl.equals("POS")) {
+			List<String> ex = new ArrayList<>();
+			if (posSentences.containsKey(doc.getId()))
+					ex = posSentences.get(doc.getId());
+			ex.add(sent.getText());
+			posSentences.put(doc.getId(),ex);
+		}
 	}
 
 	public static String label(Sentence sent) {
 		Document doc = sent.getDocument();
-		if (Utils.inLimitationParagraph(sent,false)) {
+//		if (Utils.inLimitationParagraph(sent,false)) { // More strict version 
+		if (Utils.inLimitationParagraph2(sent,false)) {			// Looser version
 			log.fine("In limitation paragraph:" + doc.getId() + "|" + sent.getId() + "|" +  sent.getText());
 			return "POS";
 		}
@@ -59,45 +67,30 @@ public class RuleBasedLimitationSentenceRecognizerPressRelease {
 		List<String> files = FileUtils.listFiles(dir, false, "xml");
 		int fileNum = 0;
 		for (String filename: files) {
+			if (new File(filename).length() == 0) continue;
 			String filenameNoExt = filename.replace(".xml", "");
 			filenameNoExt = filenameNoExt.substring(filenameNoExt.lastIndexOf(File.separator)+1);
 			log.info("Processing " + filenameNoExt + ":" + ++fileNum);
 			processSingleArticle(filename,out);
 		}	
-		PrintWriter pw = new PrintWriter(out);
-		List<String> ids = new ArrayList<String>(predictLabels.keySet());
-		Collections.sort(ids, new Comparator<String>() {
-			public int compare(String a, String b) {
-				String[] as = a.split("_");
-				String[] bs = b.split("_");
-				if (as[0].equals(bs[0])) {
-					int ai = Integer.parseInt(as[1].substring(1));
-					int bi= Integer.parseInt(bs[1].substring(1));
-					return ai-bi;
-				} else {
-					int ai = Integer.parseInt(as[0]);
-					int bi= Integer.parseInt(bs[0]);
-					return ai - bi;
-				}	  
-			}
-		});
-		List<String> seenPos = new ArrayList<>();
-		for (String s: ids) {
-			String[] ss = s.split("_");
-			if (seenPos.contains(ss[0])) continue;
-			if (predictLabels.get(s).equals("POS"))
-				seenPos.add(ss[0]);
-		}
+		List<LimitationSummary> sums = new ArrayList<>();
+		int posCount = 0;
 		for (String filename: files) {
 			String filenameNoExt = filename.replace(".xml", "");
-			filenameNoExt = filenameNoExt.substring(filenameNoExt.lastIndexOf(File.separator)+1);
-			if (seenPos.contains(filenameNoExt)) 
-				pw.write(filenameNoExt + "\tPOS\n");
-			else 
-				pw.write(filenameNoExt + "\tNEG\n");
+			String notei = filenameNoExt.substring(filenameNoExt.lastIndexOf("/")+1);
+			if (posSentences.containsKey(notei)) {
+				List<String> sents = posSentences.get(notei);
+				LimitationSummary sum = new LimitationSummary(notei.replace(".tei", "").replace("_","/"),sents.size(),sents);
+				sums.add(sum);
+				posCount++;
+			} else {
+				sums.add(new LimitationSummary(notei.replace(".tei", "").replace("_","/"),0,new ArrayList<>()));
+			}
 		}
-		pw.flush();
-		pw.close();
+		
+		ObjectMapper mapper = new ObjectMapper();
+		mapper.writerWithDefaultPrettyPrinter().writeValue(Paths.get(out).toFile(), sums);
+		System.out.println("ARTICLES WITH LIMITATIONS: " + posCount);
 	}
 
 
