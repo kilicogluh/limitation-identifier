@@ -93,12 +93,6 @@ public class PreprintParser {
 			log.log(Level.INFO,"Processing {0}: {1}.", new Object[]{id,++fileNum});
 			String outFilename = outDir.getAbsolutePath() + File.separator + id + ".xml";
 //			if (filename.contains("2020.04.13.20063792")) continue;
-//			if (filename.contains("2020.03.25.20043315")) continue;
-			
-//			if (filename.contains("2020.02.03.931766")) continue;
-//			if (filename.contains("2020.03.29.20046789")) continue;
-//			if (filename.contains("2020.04.17.20069930")) continue;
-			
 			if (new File(outFilename).exists()) continue;
 			if (new File(filename).length() == 0) {
 				PrintWriter pw = new PrintWriter(outFilename);

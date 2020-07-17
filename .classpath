@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/ling.jar"/>
+	<classpathentry kind="lib" path="lib/pmcarticleparser.jar"/>
+	<classpathentry kind="lib" path="lib/pmcparser.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.3.1-models.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/xom.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.11.0.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
