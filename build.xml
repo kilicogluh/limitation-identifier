@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<project name="limitation-recognizer" default="main" basedir=".">
+  <property name="src.dir" location="src/" />
+  <property name="build.dir" location="classes/" />
+  <property name="dist.dir" location="dist/" />
+  <property name="limit.src.dir" value="${src.dir}/gov/nih/nlm/limitations"></property>	
+
+  <path id="class-path">
+    <pathelement location="lib/xom.jar"/>
+    <pathelement location="lib/stanford-corenlp-3.3.1.jar"/>
+    <pathelement location="lib/jackson-annotations-2.11.0.jar"/>   	
+    <pathelement location="lib/jackson-core-2.11.0.jar"/> 
+    <pathelement location="lib/jackson-databind-2.11.0.jar"/>   
+    <pathelement location="lib/ling.jar"/>  	
+    <pathelement location="lib/pmcarticleparser.jar"/> 
+    <pathelement location="lib/pmcparser.jar"/> 
+    <pathelement location="lib/xercesImpl-2.7.1.jar"/>  	   	
+  </path>
+        	
+  <!-- Deletes the existing build, docs and dist directory-->
+  <target name="clean">
+    <delete dir="${build.dir}" />
+    <delete dir="${dist.dir}" />
+  </target>
+
+  <!-- Creates the  build, docs and dist directory-->
+  <target name="makedir" >
+    <mkdir dir="${dist.dir}" />
+    <mkdir dir="${build.dir}" />
+  </target>
+
+  <!-- Compiles the java code (including the usage of library for JUnit -->
+	
+	
+  <target name="compile" depends="compile-limit"/>
+		
+  <target name="compile-limit">
+		<javac srcdir="${limit.src.dir}" destdir="${build.dir}" debug="true" includeantruntime="false" source="1.8" target="1.8" debuglevel="lines,vars,source">
+			<classpath refid="class-path"></classpath>
+		</javac>
+   </target>		
+	
+  <target name="jar" depends="jar-limit"/>
+
+	<target name="jar-limit" depends="compile-limit">
+		<jar destfile="${dist.dir}/limitationRecognizer.jar">
+			<manifest>
+			</manifest>
+			<fileset dir="${build.dir}" includes="gov/nih/nlm/limitations/**"/>
+		</jar>
+	  </target>		
+	
+  <!-- Creates Javadoc -->	
+<!--	  <target name="docs">
+	    <javadoc packagenames="gov.nih.nlm.ling.*,gov.nih.nlm.bioscores.*,tasks.coref.*,tasks.factuality.*" sourcepath="${src.dir}" destdir="${docs.dir}"
+	    	author="true" version="true" use="true" splitindex="true" bottom="Copyright © 2016 National Library of Medicine." >
+			<classpath refid="class-path"></classpath>
+	    	<fileset dir="${src.dir}">
+	                <include name="**.java" />
+	           </fileset>
+	    </javadoc> 
+	  </target> -->
+
+	
+  <target name="main" depends="clean, makedir, compile, jar">
+    <description>Main target</description>
+  </target>
+
+</project> 
